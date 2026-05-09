@@ -19,7 +19,7 @@ input {
     // All commented-out settings here are examples, not defaults.
     touchpad {
         // off
-        tap
+        // tap
         // dwt
         // dwtp
         // drag false
@@ -85,15 +85,6 @@ input {
     // automatically.
     position x=1280 y=0
 }
-/*
-cursor {
-    // Technical name for Breeze Light is often "Breeze_Snow" or "breeze_cursors"
-    xcursor-theme "Breeze_Snow"
-    
-    // Default size is usually 24
-    xcursor-size 100
-}
-*/
 // Settings that influence how windows are positioned and sized.
 // Find more information on the wiki:
 // https://yalter.github.io/niri/Configuration:-Layout
@@ -297,6 +288,11 @@ gestures {
 blur {
     passes 1
 }
+cursor {
+    xcursor-theme "Bibata-Modern-Ice"
+    xcursor-size 20
+}
+
 include "./noctalia.kdl"
 include "./keybinds.kdl"
 include "./rules.kdl"

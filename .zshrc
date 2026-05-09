@@ -111,8 +111,8 @@ eval "$(oh-my-posh init zsh --config '/home/kanoman/Downloads/catppuccin_macchia
 export PATH=/home/kanoman/.opencode/bin:$PATH
 
 # terminal-wakatime setup
-export PATH="$HOME/.wakatime:$PATH"
-eval "$(terminal-wakatime init)"
+# export PATH="$HOME/.wakatime:$PATH"
+# eval "$(terminal-wakatime init)"
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm

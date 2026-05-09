@@ -34,7 +34,7 @@
         "spectrumFrameRate": 30,
         "spectrumMirrored": true,
         "visualizerType": "linear",
-        "volumeFeedback": false,
+        "volumeFeedback": true,
         "volumeFeedbackSoundFile": "",
         "volumeOverdrive": false,
         "volumeStep": 5
@@ -60,6 +60,7 @@
         "middleClickCommand": "",
         "middleClickFollowMouse": false,
         "monitors": [
+            "eDP-1"
         ],
         "mouseWheelAction": "none",
         "mouseWheelWrap": true,
@@ -70,6 +71,12 @@
         "rightClickCommand": "",
         "rightClickFollowMouse": true,
         "screenOverrides": [
+            {
+                "density": "default",
+                "displayMode": "always_visible",
+                "enabled": true,
+                "name": "eDP-1"
+            }
         ],
         "showCapsule": true,
         "showOnWorkspaceSwitch": true,
@@ -146,6 +153,15 @@
                     "id": "Volume",
                     "middleClickCommand": "pwvucontrol || pavucontrol",
                     "textColor": "none"
+                },
+                {
+                    "deviceNativePath": "BAT0",
+                    "displayMode": "icon-always",
+                    "hideIfIdle": true,
+                    "hideIfNotDetected": true,
+                    "id": "Battery",
+                    "showNoctaliaPerformance": true,
+                    "showPowerProfiles": true
                 },
                 {
                     "blacklist": [
@@ -242,7 +258,7 @@
                 "id": "audio-card"
             },
             {
-                "enabled": false,
+                "enabled": true,
                 "id": "brightness-card"
             },
             {
@@ -255,7 +271,7 @@
             }
         ],
         "diskPath": "/",
-        "position": "close_to_bar_button",
+        "position": "top_right",
         "shortcuts": {
             "left": [
                 {
@@ -288,7 +304,7 @@
         }
     },
     "desktopWidgets": {
-        "enabled": false,
+        "enabled": true,
         "gridSnap": false,
         "gridSnapScale": false,
         "monitorWidgets": [
@@ -296,9 +312,21 @@
                 "name": "Virtual-1",
                 "widgets": [
                 ]
+            },
+            {
+                "name": "eDP-1",
+                "widgets": [
+                    {
+                        "id": "Weather",
+                        "roundedCorners": true,
+                        "showBackground": true,
+                        "x": 1277,
+                        "y": 46
+                    }
+                ]
             }
         ],
-        "overviewEnabled": true
+        "overviewEnabled": false
     },
     "dock": {
         "animationSpeed": 1,
@@ -308,14 +336,14 @@
         "displayMode": "auto_hide",
         "dockType": "floating",
         "enabled": true,
-        "floatingRatio": 1,
-        "groupApps": false,
+        "floatingRatio": 0.75,
+        "groupApps": true,
         "groupClickAction": "cycle",
         "groupContextMenuMode": "extended",
         "groupIndicatorStyle": "dots",
         "inactiveIndicators": false,
         "indicatorColor": "primary",
-        "indicatorOpacity": 0.6,
+        "indicatorOpacity": 1,
         "indicatorThickness": 3,
         "launcherIcon": "",
         "launcherIconColor": "secondary",
@@ -327,8 +355,8 @@
         "pinnedApps": [
         ],
         "pinnedStatic": false,
-        "position": "bottom",
-        "showDockIndicator": false,
+        "position": "left",
+        "showDockIndicator": true,
         "showLauncherIcon": true,
         "sitOnFrame": false,
         "size": 1
@@ -336,7 +364,7 @@
     "general": {
         "allowPanelsOnScreenWithoutBar": true,
         "allowPasswordWithFprintd": false,
-        "animationDisabled": false,
+        "animationDisabled": true,
         "animationSpeed": 1,
         "autoStartAuth": false,
         "avatarImage": "/home/kanoman/.face",
@@ -383,8 +411,8 @@
         "lockScreenMonitors": [
         ],
         "lockScreenTint": 0,
-        "passwordChars": false,
-        "radiusRatio": 0.4,
+        "passwordChars": true,
+        "radiusRatio": 0.37,
         "reverseScroll": false,
         "scaleRatio": 1,
         "screenRadiusRatio": 1,
@@ -412,7 +440,7 @@
     },
     "idle": {
         "customCommands": "[]",
-        "enabled": false,
+        "enabled": true,
         "fadeDuration": 5,
         "lockCommand": "",
         "lockTimeout": 660,
@@ -448,7 +476,7 @@
         "bluetoothRssiPollingEnabled": false,
         "disableDiscoverability": false,
         "networkPanelView": "wifi",
-        "wifiDetailsViewMode": "grid"
+        "wifiDetailsViewMode": "list"
     },
     "nightLight": {
         "autoSchedule": true,
@@ -641,6 +669,14 @@
             {
                 "enabled": true,
                 "id": "zenBrowser"
+            },
+            {
+                "enabled": true,
+                "id": "alacritty"
+            },
+            {
+                "enabled": true,
+                "id": "fuzzel"
             }
         ],
         "enableUserTheming": false
@@ -651,10 +687,10 @@
         "fontDefaultScale": 1.2,
         "fontFixed": "JetBrains Mono",
         "fontFixedScale": 1,
-        "panelBackgroundOpacity": 0.93,
+        "panelBackgroundOpacity": 0.85,
         "panelsAttachedToBar": true,
         "scrollbarAlwaysVisible": true,
-        "settingsPanelMode": "window",
+        "settingsPanelMode": "centered",
         "settingsPanelSideBarCardStyle": false,
         "tooltipsEnabled": true,
         "translucentWidgets": false

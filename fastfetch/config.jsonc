@@ -138,73 +138,62 @@
     },
     {
       "type": "os",
-      "keyIcon": ""
+      "key": "\ue7d9  OS"
     },
     {
       "type": "host",
-      "keyIcon": "󰌢"
+      "key": "   Host"
     },
     {
       "type": "kernel",
-      "keyIcon": ""
+      "key": "   Kernel"
     },
     {
       "type": "uptime",
-      "keyIcon": ""
+      "key": "   Uptime"
     },
     {
       "type": "packages",
-      "keyIcon": "󰏖",
+      "key": "   Packages",
       "disabled": [
         "winget"
       ],
       "combined": false
     },
     {
-      "type": "shell",
-      "keyIcon": ""
-    },
-    {
-      "type": "display",
-      "keyIcon": "󰍹",
-      "compactType": "none",
-      "preciseRefreshRate": false,
-      "order": null
-    },
-    {
       "type": "de",
-      "keyIcon": ""
+      "key": "  DE"
     },
     {
       "type": "wm",
-      "keyIcon": "",
+      "key": "   WM",
       "detectPlugin": true
     },
     {
       "type": "wmtheme",
-      "keyIcon": "󰓸"
+      "key": "   WM Theme"
     },
     {
-      "type": "cursor",
-      "keyIcon": "󰆿"
+      "type": "shell",
+      "key": "\uf489  Shell"
     },
     {
       "type": "terminal",
-      "keyIcon": ""
+      "key": "\uf489  Terminal"
     },
     {
       "type": "terminalfont",
-      "keyIcon": ""
+      "key": "\ue659  Terminal Font"
     },
     {
       "type": "cpu",
-      "keyIcon": "",
+      "key": "\uf4bc  CPU",
       "temp": false,
       "showPeCoreCount": false
     },
     {
       "type": "gpu",
-      "keyIcon": "󰾲",
+      "key": "\uf4bc  GPU",
       "driverSpecific": false,
       "detectionMethod": "pci",
       "temp": false,
@@ -217,7 +206,7 @@
     },
     {
       "type": "memory",
-      "keyIcon": "",
+      "key": "\uefc5  Memory",
       "percent": {
         "green": 50,
         "yellow": 80,
@@ -226,6 +215,7 @@
     },
     {
       "type": "swap",
+      "key": "\uefc5  Swap",
       "percent": {
         "green": 50,
         "yellow": 80,
@@ -236,7 +226,7 @@
     },
     {
       "type": "disk",
-      "keyIcon": "",
+      "key": "\uf0a0  Disk",
       "showRegular": true,
       "showExternal": true,
       "showHidden": false,
@@ -255,7 +245,7 @@
     },
     {
       "type": "battery",
-      "keyIcon": "",
+      "key": "\uf240  Battery",
       "temp": false,
       "percent": {
         "green": 50,
@@ -265,20 +255,19 @@
     },
     {
       "type": "poweradapter",
-      "keyIcon": "󰚥"
+      "key": "\udb81\udea5"
     },
     "break",
     {
       "type": "colors",
-      "key": " ",
-      "keyIcon": "",
-      "symbol": "block",
+      "keyIcon": "",
+      "symbol": "circle",
       "paddingLeft": 0,
       "block": {
-        "width": 3,
+        "radius": 40,
         "range": [
           0,
-          15
+          8
         ]
       }
     }

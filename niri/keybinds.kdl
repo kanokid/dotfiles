@@ -17,14 +17,15 @@ binds {
     Mod+D hotkey-overlay-title="Open the Noctalia Launcher" { spawn-sh "qs -c noctalia-shell ipc call launcher toggle"; }
     Super+Alt+L hotkey-overlay-title="Lock the Screen: swaylock" { spawn "swaylock"; }
     Mod+E hotkey-overlay-title="Run an Application: vscode" { spawn "code"; }
-    Mod+B hotkey-overlay-title="Run an Application: chrome" { spawn "google-chrome-stable"; }
+    Mod+B hotkey-overlay-title="Run an Application: chrome" { spawn "AppImages/zen_browser.appimage";}
     Super+F hotkey-overlay-title="Run an Application: nautilus" { spawn "nautilus"; }
     Mod+Shift+A hotkey-overlay-title="Run an Application: kde-discover" { spawn "kde-discover"; }
     Super+S hotkey-overlay-title="Run an Application: slack" { spawn "slack"; }
-    Super+G hotkey-overlay-title="Run an Application: github-desktop" { spawn "github-desktop"; }
-    Super+Alt+S hotkey-overlay-title="Run an Application: spotify" { spawn "spotify"; }
-    Super+Alt+G hotkey-overlay-title="Run an Application: godot" { spawn-sh "Downloads/Godot"; }
-    Super+K hotkey-overlay-title="Run an Application: kicad" {spawn-sh "Downloads/kicad.AppImage";}
+    // Super+S hotkey-overlay-title="Run an Application: slack" {spawn "";}
+    Super+G hotkey-overlay-title="Run an Application: github-desktop" { spawn "AppImages/github_desktop.appimage"; }
+   // Super+Alt+qS hotkey-overlay-title="Run an Application: spcotify" { spawn "spotify"; }
+   // Super+Alt+G hotkey-overlay-title="Run an Application: godot" { spawn-sh "Downloads/Godot"; }
+   // Super+K hotkey-overlay-title="Run an Application: kicad" {spawn-sh "AppImages/kicad.appimage";}
     Super+P {spawn "playerctl" "play-pause"; }
     Super+N {spawn "playerctl" "next"; }
     Super+F3 {spawn-sh "wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.05+ -l 1.0";}
@@ -165,8 +166,8 @@ binds {
     // These binds are also affected by touchpad's natural-scroll, so these
     // example binds are "inverted", since we have natural-scroll enabled for
     // touchpads by default.
-    // Mod+TouchpadScrollDown { spawn-sh "wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.02+"; }
-    // Mod+TouchpadScrollUp   { spawn-sh "wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.02-"; }
+    Mod+TouchpadScrollDown { spawn-sh "wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.02+"; }
+    Mod+TouchpadScrollUp   { spawn-sh "wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.02-"; }
 
     // You can refer to workspaces by index. However, keep in mind that
     // niri is a dynamic workspace system, so these commands are kind of
@@ -256,6 +257,7 @@ binds {
     // Actions to switch layouts.
     // Note: if you uncomment these, make sure you do NOT have
     // a matching layout switch hotkey configured in xkb options above.
+    // 
     // Having both at once on the same hotkey will break the switching,
     // since it will switch twice upon pressing the hotkey (once by xkb, once by niri).
     // Mod+Space       { switch-layout "next"; }
