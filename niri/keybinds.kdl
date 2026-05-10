@@ -16,10 +16,10 @@ binds {
     Mod+Return hotkey-overlay-title="Open a Terminal: ghostty" { spawn "ghostty"; }
     Mod+D hotkey-overlay-title="Open the Noctalia Launcher" { spawn-sh "qs -c noctalia-shell ipc call launcher toggle"; }
     Super+Alt+L hotkey-overlay-title="Lock the Screen: swaylock" { spawn "swaylock"; }
-    Mod+E hotkey-overlay-title="Run an Application: vscode" { spawn "code"; }
+    Mod+E hotkey-overlay-title="Run an Application: zed" { spawn "zed"; }
     Mod+B hotkey-overlay-title="Run an Application: chrome" { spawn "AppImages/zen_browser.appimage";}
     Super+F hotkey-overlay-title="Run an Application: nautilus" { spawn "nautilus"; }
-    Mod+Shift+A hotkey-overlay-title="Run an Application: kde-discover" { spawn "kde-discover"; }
+    Mod+Shift+A hotkey-overlay-title="Run an Application: plasma-discover" { spawn "plasma-discover"; }
     Super+S hotkey-overlay-title="Run an Application: slack" { spawn "slack"; }
     // Super+S hotkey-overlay-title="Run an Application: slack" {spawn "";}
     Super+G hotkey-overlay-title="Run an Application: github-desktop" { spawn "AppImages/github_desktop.appimage"; }

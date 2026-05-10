@@ -1,9 +1,15 @@
 {
-  "thumbCacheReady": true,
   "activeBackend": "qt6-multimedia",
+  "automationMode": "random",
+  "automationTime": 300,
+  "fillMode": "fit",
+  "mpvSocket": "/tmp/mpv-socket",
+  "profile": "default",
+  "volume": 1,
+  "wallpapersFolder": "/home/kanoman/Downloads/music",
+  "thumbCacheReady": true,
   "enabled": false,
   "monitorSpecific": false,
-  "wallpapersFolder": "/home/kanoman/Downloads/music",
   "Virtual-1": {
     "currentWallpaper": "/home/kanoman/Downloads/music/almost monday - lost.mp4",
     "volume": 1,
@@ -17,6 +23,5 @@
     "isPlaying": false,
     "isMuted": false
   },
-  "automationCustomTime": [],
-  "mpvSocket": "/tmp/mpv-socket"
+  "automationCustomTime": []
 }

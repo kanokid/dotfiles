@@ -71,7 +71,10 @@ window-rule {
         match app-id="Godot"
         default-column-width { proportion 0.75; }
 }
-
+    window-rule {
+        match app-id="^(supertux2|supertuxkart)$" 
+        default-column-width {proportion 1.0; }
+}
 /* Compositor Specific Settings */
 // Window rule to disable border background
     window-rule {
