@@ -334,7 +334,7 @@
         "colorizeIcons": false,
         "deadOpacity": 0.6,
         "displayMode": "auto_hide",
-        "dockType": "floating",
+        "dockType": "attached",
         "enabled": true,
         "floatingRatio": 0.75,
         "groupApps": true,
@@ -356,10 +356,10 @@
         ],
         "pinnedStatic": false,
         "position": "left",
-        "showDockIndicator": true,
+        "showDockIndicator": false,
         "showLauncherIcon": true,
         "sitOnFrame": false,
-        "size": 1
+        "size": 1.5
     },
     "general": {
         "allowPanelsOnScreenWithoutBar": true,
