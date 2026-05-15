@@ -677,6 +677,10 @@
             {
                 "enabled": true,
                 "id": "fuzzel"
+            },
+            {
+                "enabled": true,
+                "id": "zed"
             }
         ],
         "enableUserTheming": false
@@ -697,7 +701,7 @@
     },
     "wallpaper": {
         "automationEnabled": false,
-        "directory": "/home/kanoman/Pictures/wallpapers",
+        "directory": "/home/kanoman/Pictures/Wallpapers",
         "enableMultiMonitorDirectories": false,
         "enabled": true,
         "favorites": [

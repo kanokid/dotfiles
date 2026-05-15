@@ -9,7 +9,7 @@ window-rule {
     // since this is the default config, and we want no false positives.
     // You can get away with just app-id="wezterm" if you want.
     match app-id=r"^org.wezfurlong.wezterm$"
-    default-column-width 
+    default-column-width
 }
 
 // Open the Firefox picture-in-picture player as floating by default.
@@ -38,25 +38,27 @@ window-rule {
 /-window-rule {
     geometry-corner-radius 12
     clip-to-geometry true
-} 
+}
     window-rule {
         opacity 0.75
         match app-id="com.mitchellh.ghostty"
         draw-border-with-background false
 //        match app-id="^(com.mitchellh.ghostty|code)$"
 //        match app-id="^(com.mitchellh.ghostty|code)$"
-//       match app-id="^(code|org.kde.dolphin|spotify|Spotify)$" 
+//       match app-id="^(code|org.kde.dolphin|spotify|Spotify)$"
     background-effect {
         blur true
     }
 
 }
     window-rule {
-        opacity 0.9
-        match app-id="code"
+        opacity 1.0
+        match app-id="^(zed|code)$"
+        /*
     background-effect {
         blur true
     }
+    */
 }
     window-rule {
         opacity 0.85
@@ -72,7 +74,7 @@ window-rule {
         default-column-width { proportion 0.75; }
 }
     window-rule {
-        match app-id="^(supertux2|supertuxkart)$" 
+        match app-id="^(supertux2|supertuxkart)$"
         default-column-width {proportion 1.0; }
 }
 /* Compositor Specific Settings */

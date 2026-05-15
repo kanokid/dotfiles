@@ -8,7 +8,7 @@
 // https://yalter.github.io/niri/Configuration:-Input
 input {
     keyboard {
-        xkb 
+        xkb
 
 
         // Enable numlock on startup, omitting this setting disables it.
@@ -39,7 +39,7 @@ input {
         // scroll-method "no-scroll"
     }
 
-    trackpoint 
+    trackpoint
 
 
     // Uncomment this to make the mouse warp to the center of newly focused windows.
@@ -240,7 +240,7 @@ layout {
     // Left and right struts will cause the next window to the side to always be visible.
     // Top and bottom struts will simply add outer gaps in addition to the area occupied by
     // layer-shell panels and regular gaps.
-    struts 
+    struts
 }
 
 // Add lines like this to spawn processes at startup.
