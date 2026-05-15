@@ -7,7 +7,7 @@
   "profile": "default",
   "volume": 1,
   "wallpapersFolder": "/home/kanoman/Downloads/music",
-  "thumbCacheReady": false,
+  "thumbCacheReady": true,
   "enabled": false,
   "monitorSpecific": false,
   "Virtual-1": {

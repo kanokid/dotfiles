@@ -23,7 +23,7 @@ binds {
     Mod+Shift+A hotkey-overlay-title="Run an Application: plasma-discover" { spawn "plasma-discover"; }
     Super+S hotkey-overlay-title="Run an Application: slack" { spawn "slack"; }
     Super+G hotkey-overlay-title="Run an Application: github-desktop" { spawn "AppImages/github_desktop.appimage"; }
-   // Super+Alt+S hotkey-overlay-title="Run an Application: spcotify" { spawn "spotify"; }
+   // Super+Alt+S hotkey-overlay-title="Run an Application: spotify" { spawn "spotify"; }
     Super+Shift+G hotkey-overlay-title="Run an Application: godot" { spawn "Downloads/Godot"; }
     Super+K hotkey-overlay-title="Run an Application: kicad" { spawn "AppImages/kicad.appimage";}
     Super+P {spawn "playerctl" "play-pause"; }
@@ -168,7 +168,8 @@ binds {
     // touchpads by default.
     Mod+TouchpadScrollDown { spawn-sh "wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.02+"; }
     Mod+TouchpadScrollUp   { spawn-sh "wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.02-"; }
-
+    Mod+Alt+TouchpadScrollDown allow-when-locked=true { spawn "brightnessctl" "--class=backlight" "set" "+5%"; }
+    Mod+Alt+TouchpadScrollUp allow-when-locked=true { spawn "brightnessctl" "--class=backlight" "set" "5%-"; }
     // You can refer to workspaces by index. However, keep in mind that
     // niri is a dynamic workspace system, so these commands are kind of
     // "best effort". Trying to refer to a workspace index bigger than
