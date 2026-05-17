@@ -65,7 +65,7 @@
         "mouseWheelAction": "none",
         "mouseWheelWrap": true,
         "outerCorners": true,
-        "position": "top",
+        "position": "left",
         "reverseScroll": false,
         "rightClickAction": "controlCenter",
         "rightClickCommand": "",
@@ -89,10 +89,20 @@
                     "clockColor": "none",
                     "customFont": "Noto Sans Arabic",
                     "formatHorizontal": "h:mm AP ddd, MMM dd",
-                    "formatVertical": "HH mm - dd MM",
+                    "formatVertical": "HH mm ddd MMM dd",
                     "id": "Clock",
                     "tooltipFormat": "HH:mm ddd, MMM dd",
                     "useCustomFont": true
+                },
+                {
+                    "defaultSettings": {
+                        "customColor": "none",
+                        "showConditionIcon": true,
+                        "showTempUnit": true,
+                        "showTempValue": true,
+                        "tooltipOption": "everything"
+                    },
+                    "id": "plugin:weather-indicator"
                 }
             ],
             "left": [
@@ -238,7 +248,7 @@
         "manualSunrise": "06:30",
         "manualSunset": "18:30",
         "monitorForColors": "Virtual-1",
-        "predefinedScheme": "Catppuccin",
+        "predefinedScheme": "Naysayer",
         "schedulingMode": "off",
         "syncGsettings": true,
         "useWallpaperColors": true
@@ -271,7 +281,7 @@
             }
         ],
         "diskPath": "/",
-        "position": "top_right",
+        "position": "bottom_left",
         "shortcuts": {
             "left": [
                 {
@@ -322,6 +332,18 @@
                         "showBackground": true,
                         "x": 1277,
                         "y": 46
+                    },
+                    {
+                        "hideMode": "hidden",
+                        "id": "MediaPlayer",
+                        "roundedCorners": true,
+                        "showAlbumArt": true,
+                        "showBackground": true,
+                        "showButtons": true,
+                        "showVisualizer": true,
+                        "visualizerType": "wave",
+                        "x": 1131,
+                        "y": 164
                     }
                 ]
             }
@@ -355,7 +377,7 @@
         "pinnedApps": [
         ],
         "pinnedStatic": false,
-        "position": "left",
+        "position": "right",
         "showDockIndicator": false,
         "showLauncherIcon": true,
         "sitOnFrame": false,
@@ -454,11 +476,11 @@
     },
     "location": {
         "analogClockInCalendar": false,
-        "autoLocate": false,
+        "autoLocate": true,
         "firstDayOfWeek": 0,
         "hideWeatherCityName": false,
         "hideWeatherTimezone": true,
-        "name": "Friedens",
+        "name": "Lebanon, PA",
         "showCalendarEvents": true,
         "showCalendarWeather": true,
         "showWeekNumberInCalendar": false,
@@ -471,7 +493,7 @@
     "network": {
         "bluetoothAutoConnect": true,
         "bluetoothDetailsViewMode": "grid",
-        "bluetoothHideUnnamedDevices": false,
+        "bluetoothHideUnnamedDevices": true,
         "bluetoothRssiPollIntervalMs": 60000,
         "bluetoothRssiPollingEnabled": false,
         "disableDiscoverability": false,
