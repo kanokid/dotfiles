@@ -155,38 +155,38 @@ To apply these dotfiles, follow these steps.
 
 - Mod + Ctrl + R: Resets customized window heights within a column to be even.
 
-Mod + Alt + Space: Maximizes the column width to take up standard space.
+- Mod + Alt + Space: Maximizes the column width to take up standard space.
 
-Mod + Alt + F: Toggles fullscreen mode for the active window.
+- Mod + Alt + F: Toggles fullscreen mode for the active window.
 
-Mod + Ctrl + F: Expands the column to occupy any remaining blank desktop width.
+- Mod + Ctrl + F: Expands the column to occupy any remaining blank desktop width.
 
-Mod + C: Centers the active column on your screen.
+- Mod + C: Centers the active column on your screen.
 
-Mod + Ctrl + C: Centers all currently visible columns on your screen.
+- Mod + Ctrl + C: Centers all currently visible columns on your screen.
 
-Mod + Minus: Shrinks column width by 10%.
+- Mod + Minus: Shrinks column width by 10%.
 
-Mod + Equal: Expands column width by 10%.
+- Mod + Equal: Expands column width by 10%.
 
-Mod + Shift + Minus: Shrinks the height of a window within a column by 10%.
+- Mod + Shift + Minus: Shrinks the height of a window within a column by 10%.
 
-Mod + Shift + Equal: Expands the height of a window within a column by 10%.
+- Mod + Shift + Equal: Expands the height of a window within a column by 10%.
 
-Mod + V: Toggles the active window between a floating window and tiling mode.
+- Mod + V: Toggles the active window between a floating window and tiling mode.
 
-Mod + Shift + V: Swaps cursor focus back and forth between the tiling and floating window layers.
+- Mod + Shift + V: Swaps cursor focus back and forth between the tiling and floating window layers.
 
-Mod + W: Toggles the current column's layout between stacked windows and vertical tabs.
+- Mod + W: Toggles the current column's layout between stacked windows and vertical tabs.
 
-Print: Snaps a screenshot of your active desktop.
+- Print: Snaps a screenshot of your active desktop.
 
-Ctrl + Print: Snaps a custom selective area/screen screenshot.
+- Ctrl + Print: Snaps a custom selective area/screen screenshot.
 
-Alt + Print: Snaps a screenshot focusing only on the active window.
+- Alt + Print: Snaps a screenshot focusing only on the active window.
 
-Mod + Escape: Toggles the keyboard inhibitor (useful for escaping apps like remote desktops that lock shortcuts).
+- Mod + Escape: Toggles the keyboard inhibitor (useful for escaping apps like remote desktops that lock shortcuts).
 
-Mod + Shift + E (or Ctrl + Alt + Delete): Triggers the session quit confirmation menu to exit Niri.
+- Mod + Shift + E (or Ctrl + Alt + Delete): Triggers the session quit confirmation menu to exit Niri.
 
-Mod + Shift + P: Puts connected display monitors directly into power-saving sleep mode.
+- Mod + Shift + P: Puts connected display monitors directly into power-saving sleep mode.
