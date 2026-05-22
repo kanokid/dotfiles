@@ -85,75 +85,75 @@ To apply these dotfiles, follow these steps.
 
 - Mod + Ctrl + Down (or Mod + Ctrl + J): Shifts the active window downward inside its current column.
 
-Mod + Home: Instantly jumps focus to the first column.
+- Mod + Home: Instantly jumps focus to the first column.
 
-Mod + End: Instantly jumps focus to the last column.
+- Mod + End: Instantly jumps focus to the last column.
 
-Mod + Ctrl + Home: Sends the selected column to the first position.
+- Mod + Ctrl + Home: Sends the selected column to the first position.
 
-Mod + Ctrl + End: Sends the selected column to the last position.
+- Mod + Ctrl + End: Sends the selected column to the last position.
 
-Mod + Page_Down (or Mod + U): Switches focus to the workspace below.
+- Mod + Page_Down (or Mod + U): Switches focus to the workspace below.
 
-Mod + Page_Up (or Mod + I): Switches focus to the workspace above.
+- Mod + Page_Up (or Mod + I): Switches focus to the workspace above.
 
-Mod + Ctrl + Page_Down (or Mod + Ctrl + U): Sends the selected column to the workspace below.
+- Mod + Ctrl + Page_Down (or Mod + Ctrl + U): Sends the selected column to the workspace below.
 
-Mod + Ctrl + Page_Up (or Mod + Ctrl + I): Sends the selected column to the workspace above.
+- Mod + Ctrl + Page_Up (or Mod + Ctrl + I): Sends the selected column to the workspace above.
 
-Mod + Shift + Page_Down (or Mod + Shift + U): Shifts the order of the current workspace downward.
+- Mod + Shift + Page_Down (or Mod + Shift + U): Shifts the order of the current workspace downward.
 
-Mod + Shift + Page_Up (or Mod + Shift + I): Shifts the order of the current workspace upward.
+- Mod + Shift + Page_Up (or Mod + Shift + I): Shifts the order of the current workspace upward.
 
-Mod + WheelScrollDown: Navigates to the workspace below using the mouse wheel (150ms rate limit).
+- Mod + WheelScrollDown: Navigates to the workspace below using the mouse wheel (150ms rate limit).
 
-Mod + WheelScrollUp: Navigates to the workspace above using the mouse wheel (150ms rate limit).
+- Mod + WheelScrollUp: Navigates to the workspace above using the mouse wheel (150ms rate limit).
 
-Mod + Ctrl + WheelScrollDown: Drags the active column down a workspace using the mouse wheel.
+- Mod + Ctrl + WheelScrollDown: Drags the active column down a workspace using the mouse wheel.
 
-Mod + Ctrl + WheelScrollUp: Drags the active column up a workspace using the mouse wheel.
+- Mod + Ctrl + WheelScrollUp: Drags the active column up a workspace using the mouse wheel.
 
-Mod + WheelScrollRight: Navigates to the column on the right using the mouse wheel.
+- Mod + WheelScrollRight: Navigates to the column on the right using the mouse wheel.
 
-Mod + WheelScrollLeft: Navigates to the column on the left using the mouse wheel.
+- Mod + WheelScrollLeft: Navigates to the column on the left using the mouse wheel.
 
-Mod + Ctrl + WheelScrollRight: Slides the current column to the right using the mouse wheel.
+- Mod + Ctrl + WheelScrollRight: Slides the current column to the right using the mouse wheel.
 
-Mod + Ctrl + WheelScrollLeft: Slides the current column to the left using the mouse wheel.
+- Mod + Ctrl + WheelScrollLeft: Slides the current column to the left using the mouse wheel.
 
-Mod + Shift + WheelScrollUp: Focuses on the column to the left using the mouse wheel.
+- Mod + Shift + WheelScrollUp: Focuses on the column to the left using the mouse wheel.
 
-Mod + Shift + WheelScrollDown: Focuses on the column to the right using the mouse wheel.
+- Mod + Shift + WheelScrollDown: Focuses on the column to the right using the mouse wheel.
 
-Mod + Ctrl + Shift + WheelScrollUp: Slides the active column leftward using the mouse wheel.
+- Mod + Ctrl + Shift + WheelScrollUp: Slides the active column leftward using the mouse wheel.
 
-Mod + Ctrl + Shift + WheelScrollDown: Slides the active column rightward using the mouse wheel.
+- Mod + Ctrl + Shift + WheelScrollDown: Slides the active column rightward using the mouse wheel.
 
-Mod + TouchpadScrollDown: Increases system audio volume by 2% via touchpad gestures.
+- Mod + TouchpadScrollDown: Increases system audio volume by 2% via touchpad gestures.
 
-Mod + TouchpadScrollUp: Decreases system audio volume by 2% via touchpad gestures.
+- Mod + TouchpadScrollUp: Decreases system audio volume by 2% via touchpad gestures.
 
-Mod + Alt + TouchpadScrollDown: Increases screen brightness by 5% via touchpad gestures (works even when locked).
+- Mod + Alt + TouchpadScrollDown: Increases screen brightness by 5% via touchpad gestures (works even when locked).
 
-Mod + Alt + TouchpadScrollUp: Decreases screen brightness by 5% via touchpad gestures (works even when locked).
+- Mod + Alt + TouchpadScrollUp: Decreases screen brightness by 5% via touchpad gestures (works even when locked).
 
-Mod + [1-9]: Directly jumps keyboard focus to workspaces 1 through 9.
+- Mod + [1-9]: Directly jumps keyboard focus to workspaces 1 through 9.
 
-Mod + Ctrl + [1-9]: Moves the active column to workspaces 1 through 9.
+- Mod + Ctrl + [1-9]: Moves the active column to workspaces 1 through 9.
 
-Mod + BracketLeft: Merges the current window into a column to its left (or expels it if already in a column).
+- Mod + BracketLeft: Merges the current window into a column to its left (or expels it if already in a column).
 
-Mod + BracketRight: Merges the current window into a column to its right (or expels it if already in a column).
+- Mod + BracketRight: Merges the current window into a column to its right (or expels it if already in a column).
 
-Mod + Comma: Takes a standalone window on the right and nests it at the bottom of the current column.
+- Mod + Comma: Takes a standalone window on the right and nests it at the bottom of the current column.
 
-Mod + Period: Takes the bottom window in the current column and ejects it out as its own column on the right.
+- Mod + Period: Takes the bottom window in the current column and ejects it out as its own column on the right.
 
-Mod + R: Cycles forward through preset column widths.
+- Mod + R: Cycles forward through preset column widths which are 1/3, 1/2, 2/3, and 3/4
 
-Mod + Shift + R: Cycles through your preset window heights inside a column.
+- Mod + Shift + R: Cycles through your preset window heights inside a column.
 
-Mod + Ctrl + R: Resets customized window heights within a column to be even.
+- Mod + Ctrl + R: Resets customized window heights within a column to be even.
 
 Mod + Alt + Space: Maximizes the column width to take up standard space.
 
