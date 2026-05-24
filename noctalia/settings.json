@@ -80,7 +80,142 @@
             },
             {
                 "enabled": true,
-                "name": "HDMI-A-1"
+                "name": "HDMI-A-1",
+                "widgets": {
+                    "center": [
+                        {
+                            "clockColor": "none",
+                            "customFont": "Noto Sans Arabic",
+                            "formatHorizontal": "h:mm AP ddd, MMM dd",
+                            "formatVertical": "HH mm ddd MMM dd",
+                            "id": "Clock",
+                            "tooltipFormat": "HH:mm ddd, MMM dd",
+                            "useCustomFont": true
+                        },
+                        {
+                            "defaultSettings": {
+                                "customColor": "none",
+                                "showConditionIcon": true,
+                                "showTempUnit": true,
+                                "showTempValue": true,
+                                "tooltipOption": "everything"
+                            },
+                            "id": "plugin:weather-indicator"
+                        }
+                    ],
+                    "left": [
+                        {
+                            "iconColor": "error",
+                            "id": "SessionMenu"
+                        },
+                        {
+                            "characterCount": 2,
+                            "colorizeIcons": false,
+                            "emptyColor": "secondary",
+                            "enableScrollWheel": true,
+                            "focusedColor": "primary",
+                            "followFocusedScreen": false,
+                            "fontWeight": "bold",
+                            "groupedBorderOpacity": 1,
+                            "hideUnoccupied": false,
+                            "iconScale": 0.8,
+                            "id": "Workspace",
+                            "labelMode": "index",
+                            "occupiedColor": "secondary",
+                            "pillSize": 0.65,
+                            "showApplications": true,
+                            "showApplicationsHover": true,
+                            "showBadge": true,
+                            "showLabelsOnlyWhenOccupied": true,
+                            "unfocusedIconsOpacity": 1
+                        },
+                        {
+                            "compactMode": false,
+                            "hideMode": "hidden",
+                            "hideWhenIdle": false,
+                            "id": "MediaMini",
+                            "maxWidth": 550,
+                            "panelShowAlbumArt": true,
+                            "scrollingMode": "hover",
+                            "showAlbumArt": true,
+                            "showArtistFirst": false,
+                            "showProgressRing": true,
+                            "showVisualizer": false,
+                            "textColor": "none",
+                            "useFixedWidth": false,
+                            "visualizerType": "linear"
+                        }
+                    ],
+                    "right": [
+                        {
+                            "hideWhenZero": true,
+                            "hideWhenZeroUnread": true,
+                            "iconColor": "none",
+                            "id": "NotificationHistory",
+                            "showUnreadBadge": true,
+                            "unreadBadgeColor": "primary"
+                        },
+                        {
+                            "displayMode": "alwaysShow",
+                            "iconColor": "primary",
+                            "id": "Volume",
+                            "middleClickCommand": "pwvucontrol || pavucontrol",
+                            "textColor": "none"
+                        },
+                        {
+                            "deviceNativePath": "BAT0",
+                            "displayMode": "icon-always",
+                            "hideIfIdle": true,
+                            "hideIfNotDetected": true,
+                            "id": "Battery",
+                            "showNoctaliaPerformance": true,
+                            "showPowerProfiles": true
+                        },
+                        {
+                            "blacklist": [
+                            ],
+                            "chevronColor": "primary",
+                            "colorizeIcons": true,
+                            "drawerEnabled": true,
+                            "hidePassive": true,
+                            "id": "Tray",
+                            "pinned": [
+                            ]
+                        },
+                        {
+                            "compactMode": false,
+                            "diskPath": "/",
+                            "iconColor": "primary",
+                            "id": "SystemMonitor",
+                            "showCpuCores": false,
+                            "showCpuFreq": false,
+                            "showCpuTemp": true,
+                            "showCpuUsage": true,
+                            "showDiskAvailable": false,
+                            "showDiskUsage": false,
+                            "showDiskUsageAsPercent": false,
+                            "showGpuTemp": false,
+                            "showLoadAverage": false,
+                            "showMemoryAsPercent": true,
+                            "showMemoryUsage": true,
+                            "showNetworkStats": false,
+                            "showSwapUsage": false,
+                            "textColor": "none",
+                            "useMonospaceFont": true,
+                            "usePadding": false
+                        },
+                        {
+                            "colorizeDistroLogo": false,
+                            "colorizeSystemIcon": "primary",
+                            "colorizeSystemText": "none",
+                            "customIconPath": "",
+                            "enableColorization": true,
+                            "icon": "noctalia",
+                            "id": "ControlCenter",
+                            "useDistroLogo": true
+                        }
+                    ]
+                }
             }
         ],
         "showCapsule": true,
@@ -359,8 +494,8 @@
                         "id": "Weather",
                         "roundedCorners": true,
                         "showBackground": true,
-                        "x": 1633,
-                        "y": 56
+                        "x": 1658,
+                        "y": 45
                     },
                     {
                         "hideMode": "visible",
@@ -371,8 +506,8 @@
                         "showButtons": true,
                         "showVisualizer": true,
                         "visualizerType": "linear",
-                        "x": 1513,
-                        "y": 156
+                        "x": 1509,
+                        "y": 146
                     }
                 ]
             }
