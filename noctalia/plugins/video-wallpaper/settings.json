@@ -6,9 +6,9 @@
   "mpvSocket": "/tmp/mpv-socket",
   "profile": "default",
   "volume": 1,
-  "wallpapersFolder": "/home/kanoman/Downloads/music",
+  "wallpapersFolder": "/home/kanoman/Music",
   "thumbCacheReady": true,
-  "enabled": false,
+  "enabled": true,
   "monitorSpecific": false,
   "Virtual-1": {
     "currentWallpaper": "/home/kanoman/Downloads/music/almost monday - lost.mp4",
@@ -23,5 +23,18 @@
     "isPlaying": false,
     "isMuted": false
   },
-  "automationCustomTime": []
+  "automationCustomTime": [],
+  "eDP-1": {
+    "currentWallpaper": "/home/kanoman/Music/almost monday - life goes by (official video).mp4",
+    "volume": 1,
+    "automation": false,
+    "automationMode": "random",
+    "automationTime": 300,
+    "hardwareAcceleration": false,
+    "profile": "default",
+    "fillMode": "",
+    "orientation": 0,
+    "noctaliaWallpaper": "/home/kanoman/Pictures/Wallpapers/cute-minecraft-wdutfxj1plmzl8pi.jpg",
+    "isPlaying": true
+  }
 }

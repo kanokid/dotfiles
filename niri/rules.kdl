@@ -52,21 +52,28 @@ window-rule {
 
 }
     window-rule {
-        opacity 0.8  
+        opacity 0.8
         match app-id="^(zed|code)$"
-        
+
     background-effect {
         blur true
     }
-    
+
 }
     window-rule {
         opacity 0.8
-        match app-id="org.gnome.Nautilus"
+        match app-id="^(org.gnome.Nautilus|org.kde.dolphin)$"
         default-column-width { proportion 0.5; }
     background-effect {
         blur true
         xray false
+    }
+}
+/-window-rule {
+        opacity 0.9
+        match app-id="zen"
+        background-effect {
+        blur true
     }
 }
     window-rule {
