@@ -615,14 +615,14 @@
     "hooks": {
         "colorGeneration": "",
         "darkModeChange": "",
-        "enabled": false,
+        "enabled": true,
         "performanceModeDisabled": "",
         "performanceModeEnabled": "",
         "screenLock": "",
         "screenUnlock": "",
         "session": "",
         "startup": "",
-        "wallpaperChange": ""
+        "wallpaperChange": "/home/kanoman/.config/noctalia/hooks/refresh-nautilus.sh"
     },
     "idle": {
         "customCommands": "[]",
@@ -834,10 +834,6 @@
             },
             {
                 "enabled": true,
-                "id": "gtk"
-            },
-            {
-                "enabled": true,
                 "id": "code"
             },
             {
@@ -871,6 +867,10 @@
             {
                 "enabled": true,
                 "id": "kitty"
+            },
+            {
+                "enabled": true,
+                "id": "gtk"
             }
         ],
         "enableUserTheming": false

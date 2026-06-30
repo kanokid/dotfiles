@@ -268,11 +268,13 @@ screenshot-path "~/Pictures/Screenshots/Screenshot from %Y-%m-%d %H-%M-%S.png"
 // You can also set this to null to disable saving screenshots to disk.
 // screenshot-path null
 
-// Animation settings.
-// The wiki explains how to configure individual animations:
-// https://yalter.github.io/niri/Configuration:-Animations
 
+// This is to spawn noctalia v4 as the shell.
 spawn-at-startup "qs" "-c" "noctalia-shell"
+
+// This is to spawn noctalia v5 as the shell.
+// spawn-at-startup "noctalia"
+
 environment {
     QT_QPA_PLATFORMTHEME "qt6ct"
 }
@@ -294,4 +296,5 @@ cursor {
 include "./noctalia.kdl"
 include "./keybinds.kdl"
 include "./rules.kdl"
-include "./animations.kdl" optional=true
+include optional=true "./animations.kdl"
+// include optional=true "./noctaliav5.kdl"
