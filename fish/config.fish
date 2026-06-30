@@ -11,3 +11,6 @@ starship init fish | source
 # terminal-wakatime setup
 # set -gx PATH "$HOME/.wakatime" $PATH
 # terminal-wakatime init fish | source
+
+# opencode
+fish_add_path /home/kanoman/.opencode/bin
