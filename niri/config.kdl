@@ -270,10 +270,10 @@ screenshot-path "~/Pictures/Screenshots/Screenshot from %Y-%m-%d %H-%M-%S.png"
 
 
 // This is to spawn noctalia v4 as the shell.
-spawn-at-startup "qs" "-c" "noctalia-shell"
+// spawn-at-startup "qs" "-c" "noctalia-shell"
 
 // This is to spawn noctalia v5 as the shell.
-// spawn-at-startup "noctalia"
+spawn-at-startup "noctalia"
 
 environment {
     QT_QPA_PLATFORMTHEME "qt6ct"
@@ -297,4 +297,4 @@ include "./noctalia.kdl"
 include "./keybinds.kdl"
 include "./rules.kdl"
 include optional=true "./animations.kdl"
-// include optional=true "./noctaliav5.kdl"
+include optional=true "./noctaliav5.kdl"

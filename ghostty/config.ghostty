@@ -3,3 +3,5 @@ theme = noctalia
 shell-integration = fish
 confirm-close-surface = false
 background-opacity = 1
+font-family = "Monaspace Krypton Var"
+font-size = 12

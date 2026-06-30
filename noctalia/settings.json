@@ -213,6 +213,9 @@
                             "icon": "noctalia",
                             "id": "ControlCenter",
                             "useDistroLogo": true
+                        },
+                        {
+                            "id": "plugin:valent-connect"
                         }
                     ]
                 }
@@ -347,6 +350,9 @@
                     "usePadding": false
                 },
                 {
+                    "id": "plugin:valent-connect"
+                },
+                {
                     "colorizeDistroLogo": false,
                     "colorizeSystemIcon": "primary",
                     "colorizeSystemText": "none",
@@ -477,13 +483,14 @@
                         "hideMode": "hidden",
                         "id": "MediaPlayer",
                         "roundedCorners": true,
+                        "scale": 1,
                         "showAlbumArt": true,
                         "showBackground": true,
                         "showButtons": true,
                         "showVisualizer": true,
                         "visualizerType": "wave",
                         "x": 1131,
-                        "y": 164
+                        "y": 170
                     }
                 ]
             },
@@ -884,7 +891,7 @@
         "panelBackgroundOpacity": 0.85,
         "panelsAttachedToBar": true,
         "scrollbarAlwaysVisible": true,
-        "settingsPanelMode": "window",
+        "settingsPanelMode": "centered",
         "settingsPanelSideBarCardStyle": false,
         "tooltipsEnabled": true,
         "translucentWidgets": false
