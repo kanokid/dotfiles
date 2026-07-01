@@ -10,6 +10,7 @@ input {
     keyboard {
         xkb
 
+
         // Enable numlock on startup, omitting this setting disables it.
         numlock
     }
@@ -90,7 +91,7 @@ input {
 layout {
     // Set gaps around windows in logical pixels.
     gaps 10
-    background-color "transparent"
+
     // When to center a column when changing focus, options are:
     // - "never", default behavior, focusing an off-screen column will keep at the left
     //   or right edge of the screen.
@@ -272,7 +273,7 @@ screenshot-path "~/Pictures/Screenshots/Screenshot from %Y-%m-%d %H-%M-%S.png"
 // spawn-at-startup "qs" "-c" "noctalia-shell"
 
 // This is to spawn noctalia v5 as the shell.
-// spawn-at-startup "noctalia"
+spawn-at-startup "noctalia"
 
 environment {
     QT_QPA_PLATFORMTHEME "qt6ct"
@@ -292,19 +293,8 @@ cursor {
     xcursor-size 20
 }
 
-// Include core files
 include "./noctalia.kdl"
 include "./keybinds.kdl"
 include "./rules.kdl"
 include optional=true "./animations.kdl"
-// include optional=true "./noctaliav4.kdl"
-
-// Include dms files
-include "dms/colors.kdl"
-// include "dms/layout.kdl"
-include "dms/alttab.kdl"
-include "dms/binds.kdl"
-// include "dms/outputs.kdl"
-// include "dms/cursor.kdl"
-include "dms/cursor.kdl"
-include "dms/dms.kdl"
+include optional=true "./noctaliav5.kdl"

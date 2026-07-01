@@ -1,5 +1,5 @@
 window-decoration = "none"
-theme = noctalia
+theme = dankcolors
 shell-integration = fish
 confirm-close-surface = false
 background-opacity = 1

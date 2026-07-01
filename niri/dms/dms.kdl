@@ -1,0 +1,22 @@
+config-notification {
+    disable-failed
+}
+layer-rule {
+    match namespace="^quickshell$"
+    place-within-backdrop true
+}
+overview {
+    workspace-shadow {
+        off
+    }
+}
+environment {
+  XDG_CURRENT_DESKTOP "niri"
+}
+
+// Open dms windows as floating by default
+window-rule {
+    match app-id=r#"org.quickshell$"#
+    match app-id=r#"com.danklinux.dms$"#
+    open-floating true
+}

@@ -1,0 +1,8 @@
+binds {
+    Mod+D hotkey-overlay-title="Open the Noctalia Launcher" { spawn "qs" "-c" "noctalia-shell" "ipc" "call" "launcher" "toggle"; }
+    Mod+Shift+W hotkey-overlay-title="Open the wallpaper switcher" { spawn "qs" "-c" "noctalia-shell" "ipc" "call" "wallpaper" "toggle"; }
+    Mod+Shift+L hotkey-overlay-title="Open the session menu" { spawn "qs" "-c" "noctalia-shell" "ipc" "call" "sessionMenu" "toggle"; }
+    Mod+Shift+C hotkey-overlay-title="Open the Noctalia Control Center" { spawn "qs" "-c" "noctalia-shell" "ipc" "call" "controlCenter" "toggle"; }
+    Mod+Shift+S hotkey-overlay-title=null hotkey-overlay-title="Open the Noctalia Settings" { spawn "qs" "-c" "noctalia-shell" "ipc" "call" "settings" "toggle"; }
+    Mod+M hotkey-overlay-title=null { spawn "qs" "-c" "noctalia-shell" "ipc" "call" "media" "toggle"; }
+}
