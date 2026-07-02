@@ -299,10 +299,6 @@ include "./rules.kdl"
 include optional=true "./animations.kdl"
 // include optional=true "./noctaliav4.kdl"
 
-
-// This is to spawn dms as the shell.
-spawn-at-startup "dms run"
-
 // Include dms files
 include "dms/colors.kdl"
 // include "dms/layout.kdl"
@@ -312,5 +308,3 @@ include "dms/binds.kdl"
 // include "dms/cursor.kdl"
 include "dms/cursor.kdl"
 include "dms/dms.kdl"
-
-include "dms/outputs.kdl"
