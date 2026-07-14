@@ -1,0 +1,21 @@
+[config]
+
+[templates.btop]
+input_path = '/home/kanoman/.config/matugen/themes/btop.theme'
+output_path = '/home/kanoman/.config/dotfiles/btop/themes/matugen.theme'
+
+[templates.fastfetch]
+input_path = '/home/kanoman/.config/dotfiles/matugen/themes/config.jsonc'
+output_path = '/home/kanoman/.config/dotfiles/fastfetch/config.jsonc'
+
+[templates.starship]
+input_path = '/home/kanoman/.config/dotfiles/matugen/themes/starship-colors.toml'
+output_path = '/home/kanoman/.config/dotfiles/starship.toml'
+
+[templates.helix]
+input_path = '/home/kanoman/.config/matugen/themes/helix.toml'
+output_path = '/home/kanoman/.config/dotfiles/helix/themes/matugen.toml'
+
+[templates.slk]
+input_path = '/home/kanoman/.config/matugen/templates/slk.toml'
+output_path = '/home/kanoman/.config/slk/themes/matugen.toml'

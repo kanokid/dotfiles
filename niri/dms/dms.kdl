@@ -1,3 +1,5 @@
+spawn-at-startup "dms" "run"
+
 config-notification {
     disable-failed
 }

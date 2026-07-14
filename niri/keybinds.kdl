@@ -14,20 +14,20 @@ binds {
 
     // Suggested binds for running programs: terminal, app launcher, screen locker.
     Mod+Return hotkey-overlay-title="Open a Terminal: ghostty" { spawn "ghostty"; }
+    Mod+Shift+Return {spawn "ghostty" "-e" "zellij"; }
     Mod+D hotkey-overlay-title="Open the Noctalia Launcher" { spawn "noctalia" "msg" "panel-toggle" "launcher"; }
     Mod+Shift+W hotkey-overlay-title="Open the wallpaper switcher" { spawn "noctalia" "msg" "panel-toggle" "wallpaper"; }
     Mod+Shift+L hotkey-overlay-title="Open the session menu" { spawn "noctalia" "msg" "panel-toggle" "session"; }
     Mod+C hotkey-overlay-title="Open the Noctalia Control Center" { spawn "noctalia" "msg" "panel-toggle" "control-center"; }
-    Mod+Shift+S hotkey-overlay-title=null hotkey-overlay-title="Open the Noctalia Settings" { spawn "noctalia" "msg" "settings-open"; }
+    Mod+Comma hotkey-overlay-title=null hotkey-overlay-title="Open the Noctalia Settings" { spawn "noctalia" "msg" "settings-open"; }
     Mod+M hotkey-overlay-title=null { spawn "noctalia" "msg" "panel-toggle" "control-center" "media"; }
-
     Mod+E hotkey-overlay-title="Run an Application: zed" { spawn "zed"; }
     Mod+B hotkey-overlay-title="Run an Application: helium" { spawn "helium"; }
-    Super+F hotkey-overlay-title="Run an Application: nautilus" { spawn "nautilus"; }
+    Super+F hotkey-overlay-title="Run an Application: dolphin" { spawn "nautilus"; }
     Mod+Shift+A hotkey-overlay-title="Run an Application: plasma-discover" { spawn "plasma-discover"; }
     Super+S hotkey-overlay-title="Run an Application: slack" { spawn "slack"; }
     Super+G hotkey-overlay-title="Run an Application: github-desktop" { spawn "AppImages/github_desktop.appimage"; }
-   // Super+Alt+S hotkey-overlay-title="Run an Application: spotify" { spawn "spotify"; }
+    Super+Shift+S hotkey-overlay-title="Run an Application: spotify" { spawn "spotify"; }
     Super+Shift+G hotkey-overlay-title="Run an Application: godot" { spawn "Downloads/Godot"; }
     Mod+Shift+K repeat=false hotkey-overlay-title="Run an Application: kicad" { spawn "AppImages/kicad.appimage"; }
     Super+P hotkey-overlay-title=null { spawn "playerctl" "play-pause"; }
@@ -217,7 +217,7 @@ binds {
     Mod+BracketRight { consume-or-expel-window-right; }
 
     // Consume one window from the right to the bottom of the focused column.
-    Mod+Comma  { consume-window-into-column; }
+    Mod+Alt+Comma  { consume-window-into-column; }
     // Expel the bottom window from the focused column to the right.
     Mod+Period { expel-window-from-column; }
 

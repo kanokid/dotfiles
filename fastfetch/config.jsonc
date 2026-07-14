@@ -4,8 +4,8 @@
     "type": "auto",
     "source": "",
     "color": {
-      "1": "green",
-      "2": "#FFFFFF",
+      "1": "#2e628c",
+      "2": "#e0e2e8",
       "3": "",
       "4": "",
       "5": "",
@@ -38,8 +38,8 @@
     "hideCursor": false,
     "separator": ": ",
     "color": {
-      "keys": "green",
-      "title": "green",
+      "keys": "#2e628c",
+      "title": "#2e628c",
       "output": "",
       "separator": ""
     },
@@ -58,9 +58,9 @@
       "unit": "D",
       "ndigits": 1,
       "color": {
-        "green": "32",
-        "yellow": "93",
-        "red": "91"
+        "green": "#2e628c",
+        "yellow": "#68587a",
+        "red": "#ba1a1a"
       },
       "spaceBeforeUnit": "default"
     },
@@ -71,9 +71,9 @@
       ],
       "ndigits": 0,
       "color": {
-        "green": "32",
-        "yellow": "93",
-        "red": "91"
+        "green": "#2e628c",
+        "yellow": "#68587a",
+        "red": "#ba1a1a"
       },
       "spaceBeforeUnit": "default",
       "width": 0
@@ -91,8 +91,8 @@
       },
       "color": {
         "elapsed": "auto",
-        "total": "97",
-        "border": "97"
+        "total": "#72777f",
+        "border": "#72777f"
       },
       "width": 10
     },
@@ -125,15 +125,15 @@
       "keyIcon": "",
       "fqdn": false,
       "color": {
-        "user": "",
-        "at": "",
-        "host": ""
+        "user": "#2e628c",
+        "at": "#42474e",
+        "host": "#2e628c"
       }
     },
     {
       "type": "separator",
       "string": "-",
-      "outputColor": "",
+      "outputColor": "#42474e",
       "times": 0
     },
     {

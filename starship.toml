@@ -1,0 +1,48 @@
+format = """
+$username\
+$hostname\
+$directory\
+$git_branch\
+$git_state\
+$git_status\
+$cmd_duration\
+$line_break\
+$python\
+$character"""
+
+[directory]
+style = "#2e628c"
+
+[character]
+success_symbol = "[❯](#51606f)"
+error_symbol = "[❯](#ba1a1a)"
+vimcmd_symbol = "[❮](#2e628c)"
+
+[git_branch]
+format = "[$branch]($style)"
+style = "#42474e"
+
+[git_status]
+format = "[[(*$conflicted$untracked$modified$staged$renamed$deleted)](218) ($ahead_behind$stashed)]($style)"
+style = "#68587a"
+conflicted = "​"
+untracked = "​"
+modified = "​"
+staged = "​"
+renamed = "​"
+deleted = "​"
+stashed = "≡"
+
+[git_state]
+format = '\([$state( $progress_current/$progress_total)]($style)\) '
+style = "#42474e"
+
+[cmd_duration]
+format = "[$duration]($style) "
+style = "#68587a"
+
+[python]
+format = "[$virtualenv]($style) "
+style = "#42474e"
+detect_extensions = []
+detect_files = []
