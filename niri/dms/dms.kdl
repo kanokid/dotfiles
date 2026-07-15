@@ -12,10 +12,6 @@ overview {
         off
     }
 }
-environment {
-  XDG_CURRENT_DESKTOP "niri"
-}
-
 // Open dms windows as floating by default
 window-rule {
     match app-id=r#"org.quickshell$"#
