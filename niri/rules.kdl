@@ -23,7 +23,7 @@ window-rule {
 
 // Example: block out two password managers from screen capture.
 // (This example rule is commented out with a "/-" in front.)
-window-rule {
+/-window-rule {
     match app-id=r"^org.keepassxc.KeePassXC$"
     match app-id=r"^org.gnome.World.Secrets$"
 
@@ -48,16 +48,14 @@ window-rule {
     background-effect {
         blur true
     }
-
 }
     window-rule {
-        opacity 0.8
-        match app-id="^(zed|code)$"
+        opacity 0.85
+        match app-id="^(code|codium)$"
 
     background-effect {
         blur true
     }
-
 }
     window-rule {
         opacity 0.8
@@ -81,7 +79,7 @@ window-rule {
 }
     window-rule {
         match app-id="^(supertux2|supertuxkart)$"
-        default-column-width {proportion 1.0; }
+        default-column-width { proportion 1.0; }
 }
 /* Compositor Specific Settings */
 // Window rule to disable border background

@@ -4,8 +4,8 @@
     "type": "auto",
     "source": "",
     "color": {
-      "1": "#00687b",
-      "2": "#d8e5e9",
+      "1": "#e65100",
+      "2": "#f0dfd8",
       "3": "",
       "4": "",
       "5": "",
@@ -38,8 +38,8 @@
     "hideCursor": false,
     "separator": ": ",
     "color": {
-      "keys": "#00687b",
-      "title": "#00687b",
+      "keys": "#e65100",
+      "title": "#e65100",
       "output": "",
       "separator": ""
     },
@@ -58,9 +58,9 @@
       "unit": "D",
       "ndigits": 1,
       "color": {
-        "green": "#00687b",
-        "yellow": "#3d6187",
-        "red": "#ba1a1a"
+        "green": "#e65100",
+        "yellow": "#ff9800",
+        "red": "#b3261e"
       },
       "spaceBeforeUnit": "default"
     },
@@ -71,9 +71,9 @@
       ],
       "ndigits": 0,
       "color": {
-        "green": "#00687b",
-        "yellow": "#3d6187",
-        "red": "#ba1a1a"
+        "green": "#e65100",
+        "yellow": "#ff9800",
+        "red": "#b3261e"
       },
       "spaceBeforeUnit": "default",
       "width": 0
@@ -91,8 +91,8 @@
       },
       "color": {
         "elapsed": "auto",
-        "total": "#6d797d",
-        "border": "#6d797d"
+        "total": "#85736c",
+        "border": "#85736c"
       },
       "width": 10
     },
@@ -125,15 +125,15 @@
       "keyIcon": "",
       "fqdn": false,
       "color": {
-        "user": "#00687b",
-        "at": "#3d494d",
-        "host": "#00687b"
+        "user": "#e65100",
+        "at": "#52443d",
+        "host": "#e65100"
       }
     },
     {
       "type": "separator",
       "string": "-",
-      "outputColor": "#3d494d",
+      "outputColor": "#52443d",
       "times": 0
     },
     {

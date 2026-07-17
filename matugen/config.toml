@@ -19,3 +19,7 @@ output_path = '/home/kanoman/.config/dotfiles/helix/themes/matugen.toml'
 [templates.slk]
 input_path = '/home/kanoman/.config/matugen/templates/slk.toml'
 output_path = '/home/kanoman/.config/slk/themes/matugen.toml'
+
+[templates.catppuccin_dank_latte]
+input_path = '/home/kanoman/.config/dotfiles/matugen/templates/catppuccin-dank-latte.json'
+output_path = '/home/kanoman/.vscode-oss/extensions/danklinux.dms-theme-0.0.3-universal/themes/catppuccin-dank-latte.json'

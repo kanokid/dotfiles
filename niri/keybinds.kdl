@@ -14,15 +14,16 @@ binds {
 
     // Suggested binds for running programs: terminal, app launcher, screen locker.
     Mod+Return hotkey-overlay-title="Open a Terminal: ghostty" { spawn "ghostty"; }
-    Mod+Shift+Return {spawn "ghostty" "-e" "zellij"; }
+    Mod+Shift+Return { spawn "ghostty" "-e" "zellij"; }
     Mod+D hotkey-overlay-title="Open the Noctalia Launcher" { spawn "noctalia" "msg" "panel-toggle" "launcher"; }
     Mod+Shift+W hotkey-overlay-title="Open the wallpaper switcher" { spawn "noctalia" "msg" "panel-toggle" "wallpaper"; }
     Mod+Shift+L hotkey-overlay-title="Open the session menu" { spawn "noctalia" "msg" "panel-toggle" "session"; }
     Mod+C hotkey-overlay-title="Open the Noctalia Control Center" { spawn "noctalia" "msg" "panel-toggle" "control-center"; }
-    Mod+Comma hotkey-overlay-title=null hotkey-overlay-title="Open the Noctalia Settings" { spawn "noctalia" "msg" "settings-open"; }
+    Mod+Comma hotkey-overlay-title="Open the Noctalia Settings" { spawn "noctalia" "msg" "settings-open"; }
     Mod+M hotkey-overlay-title=null { spawn "noctalia" "msg" "panel-toggle" "control-center" "media"; }
     Mod+E hotkey-overlay-title="Run an Application: zed" { spawn "zed"; }
-    Mod+B hotkey-overlay-title="Run an Application: helium" { spawn "helium"; }
+    Mod+Shift+E hotkey-overlay-title="Run an Application: vscodium" { spawn "vscodium"; }
+    Mod+B hotkey-overlay-title="Run an Application: google-chrome" { spawn "google-chrome"; }
     Super+F hotkey-overlay-title="Run an Application: dolphin" { spawn "nautilus"; }
     Mod+Shift+A hotkey-overlay-title="Run an Application: plasma-discover" { spawn "plasma-discover"; }
     Super+S hotkey-overlay-title="Run an Application: slack" { spawn "slack"; }
@@ -48,6 +49,12 @@ binds {
     XF86AudioLowerVolume allow-when-locked=true { spawn-sh "wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.05-"; }
     XF86AudioMute allow-when-locked=true { spawn-sh "wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle"; }
     XF86AudioMicMute allow-when-locked=true { spawn-sh "wpctl set-mute @DEFAULT_AUDIO_SOURCE@ toggle"; }
+
+
+    // This controls the volume of Spotify music playing using playerctl.
+    Super+XF86AudioRaiseVolume allow-when-locked=true {spawn "playerctl" "--player=spotify" "volume" "0.05+";}
+    Super+XF86AudioLowerVolume allow-when-locked=true {spawn "playerctl" "--player=spotify" "volume" "0.05-";}
+
 
     // Example media keys mapping using playerctl.
     // This will work with any MPRIS-enabled media player.
@@ -287,7 +294,7 @@ binds {
     Mod+Escape allow-inhibiting=false { toggle-keyboard-shortcuts-inhibit; }
 
     // The quit action will show a confirmation dialog to avoid accidental exits.
-    Mod+Shift+E { quit; }
+    Mod+Alt+E { quit; }
 
     // Powers off the monitors. To turn them back on, do any input like
     // moving the mouse or pressing any other key.

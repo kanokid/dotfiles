@@ -296,7 +296,7 @@ cursor {
 include "./noctalia.kdl"
 include "./keybinds.kdl"
 include "./rules.kdl"
-include optional=true "./animations.kdl"
+include "./animations.kdl" optional=true
 // include optional=true "./noctaliav4.kdl"
 
 

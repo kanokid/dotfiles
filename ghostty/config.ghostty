@@ -4,7 +4,7 @@ theme = dankcolors
 shell-integration = fish
 confirm-close-surface = false
 background-opacity = 1
-font-family = "Monaspace Krypton Var"
+font-family = "Monaspace Radon"
 
 font-family = "Symbols Nerd Font"
 font-size = 12
