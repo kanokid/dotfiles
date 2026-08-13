@@ -1,5 +1,5 @@
 window-decoration = "none"
-theme = dankcolors
+theme = noctalia
 # theme = Catppuccin Latte
 shell-integration = fish
 confirm-close-surface = false

@@ -1,0 +1,36 @@
+Debug Logs
+
+17:  Copr repo for dms owned by avengemedia 100% |   5.7 KiB/s |   3.0 KiB |  00m01s
+18:  Copr repo for dms owned by avengemedia 100% |   5.7 KiB/s |   3.0 KiB |  00m01s
+19:  Copr repo for dms owned by avengemedia 100% |   5.7 KiB/s |   3.0 KiB |  00m01s
+20: Repositories loaded.
+21: Repositories loaded.
+22: Repositories loaded.
+23: Repositories loaded.
+24: Repositories loaded.
+25: Repositories loaded.
+26: Repositories loaded.
+27: Repositories loaded.
+28: Repositories loaded.
+29: Repositories loaded.
+30: Repositories loaded.
+31: Repositories loaded.
+32: Failed to resolve the transaction:
+33: Problem: problem with installed package
+34:   - installed package noctalia-qs-legacy-0.0.12-5.fc44.x86_64 conflicts with quickshell provide
+35:   - package noctalia-qs-legacy-0.0.12-5.fc44.x86_64 from copr:copr.fedorainfracloud.org:lionhea
+36:   - conflicting requests
+37:   - installed package noctalia-qs-legacy-0.0.12-5.fc44.x86_64 conflicts with quickshell provide
+38:   - package noctalia-qs-legacy-0.0.12-5.fc44.x86_64 from copr:copr.fedorainfracloud.org:lionhea
+39:   - installed package noctalia-qs-legacy-0.0.12-5.fc44.x86_64 conflicts with quickshell provide
+40:   - package noctalia-qs-legacy-0.0.12-5.fc44.x86_64 from copr:copr.fedorainfracloud.org:lionhea
+41:   - installed package noctalia-qs-legacy-0.0.12-5.fc44.x86_64 conflicts with quickshell provide
+42:   - package noctalia-qs-legacy-0.0.12-5.fc44.x86_64 from copr:copr.fedorainfracloud.org:lionhea
+43:   - installed package noctalia-qs-legacy-0.0.12-5.fc44.x86_64 conflicts with quickshell provide
+44:   - package noctalia-qs-legacy-0.0.12-5.fc44.x86_64 from copr:copr.fedorainfracloud.org:lionhea
+45: You can try to add to command line:
+46:   --allowerasing to allow removing of installed packages to resolve problems
+47:   --skip-broken to skip uninstallable packages
+48:   --skip-broken to skip uninstallable packages
+49:   --skip-broken to skip uninstallable packages
+... (17 older log entries hidden)

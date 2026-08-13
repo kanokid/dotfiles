@@ -1,0 +1,33 @@
+❯ cat /proc/bus/input/devices | grep -E 'Name=|Handlers='
+N: Name="Power Button"
+H: Handlers=kbd event0
+N: Name="Lid Switch"
+H: Handlers=event1
+N: Name="Sleep Button"
+H: Handlers=kbd event2
+N: Name="Power Button"
+H: Handlers=kbd event3
+N: Name="AT Translated Set 2 keyboard"
+H: Handlers=sysrq kbd leds event4
+N: Name="Video Bus"
+H: Handlers=kbd event5
+N: Name="MSFT0001:00 04F3:3140 Mouse"
+H: Handlers=mouse0 event6
+N: Name="MSFT0001:00 04F3:3140 Touchpad"
+H: Handlers=mouse1 event7
+N: Name="Wacom HID 5218 Pen"
+H: Handlers=mouse2 event8
+N: Name="Wacom HID 5218 Finger"
+H: Handlers=mouse3 event9
+N: Name="Ideapad extra buttons"
+H: Handlers=kbd event10 rfkill
+N: Name="PC Speaker"
+H: Handlers=kbd event11
+N: Name="Lenovo Yoga Tablet Mode Control switch"
+H: Handlers=event12
+N: Name="HD-Audio Generic HDMI/DP,pcm=3"
+H: Handlers=event13
+N: Name="HD-Audio Generic Mic"
+H: Handlers=event14
+N: Name="HD-Audio Generic Headphone"
+H: Handlers=event15

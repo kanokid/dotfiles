@@ -1,0 +1,20 @@
+Installation Failed
+
+Package Installation Error: failed to install COPR packages: exit status 1
+
+Installation Logs (last 15 lines):
+    - package noctalia-qs-legacy-0.0.12-5.fc44.x86_64 from copr:copr.fedorainfracloud.org:lionheart
+    - conflicting requests
+    - installed package noctalia-qs-legacy-0.0.12-5.fc44.x86_64 conflicts with quickshell provided
+    - package noctalia-qs-legacy-0.0.12-5.fc44.x86_64 from copr:copr.fedorainfracloud.org:lionheart
+    - installed package noctalia-qs-legacy-0.0.12-5.fc44.x86_64 conflicts with quickshell provided
+    - package noctalia-qs-legacy-0.0.12-5.fc44.x86_64 from copr:copr.fedorainfracloud.org:lionheart
+    - installed package noctalia-qs-legacy-0.0.12-5.fc44.x86_64 conflicts with quickshell provided
+    - package noctalia-qs-legacy-0.0.12-5.fc44.x86_64 from copr:copr.fedorainfracloud.org:lionheart
+    - installed package noctalia-qs-legacy-0.0.12-5.fc44.x86_64 conflicts with quickshell provided
+    - package noctalia-qs-legacy-0.0.12-5.fc44.x86_64 from copr:copr.fedorainfracloud.org:lionheart
+  You can try to add to command line:
+    --allowerasing to allow removing of installed packages to resolve problems
+    --skip-broken to skip uninstallable packages
+    --skip-broken to skip uninstallable packages
+    --skip-broken to skip uninstallable packages

@@ -1,0 +1,5 @@
+Add the cat widget to a bar from Noctalia's widget picker. Click the cat to pause or resume it.
+
+Keyboard reactivity is disabled until input_devices is configured. Use stable paths from /dev/input/by-id/ or /dev/input/by-path/ when possible because /dev/input/eventN names can change after device or kernel updates.
+
+Audio reactivity is controlled separately with audio_spectrum. When enabled, the widget can tap to the beat, flash rave colors on beat, and optionally ignore audio unless MPRIS reports media playback.

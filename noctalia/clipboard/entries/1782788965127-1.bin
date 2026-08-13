@@ -1,0 +1,10 @@
+# ~/.config/noctalia/config.toml
+
+[bar.widgets.workspaces]
+# Forces Noctalia to show sequential positional index numbers (1, 2, 3...)
+# instead of literal Hyprland Workspace IDs (like 2, 5, 8...)
+display_mode = "index" 
+
+# ALTERNATIVE: Hide empty workspaces entirely so nothing is displayed 
+# if there are no windows on it.
+show_empty = false

@@ -1,0 +1,2 @@
+    Super+P hotkey-overlay-title=null { spawn "playerctl" "play-pause"; }
+    Super+N hotkey-overlay-title=null { spawn "playerctl" "next"; }

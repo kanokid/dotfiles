@@ -1,0 +1,14 @@
+{
+  "Applications": [
+    "/usr/share/applications/dev.zed.Zed.desktop",
+    "/usr/share/applications/gparted.desktop",
+    "/var/lib/flatpak/exports/share/applications/com.spotify.Client.desktop",
+    "/usr/share/applications/google-chrome.desktop",
+    "/usr/share/applications/org.gnome.Software.desktop",
+    "/usr/share/applications/org.kde.discover.desktop",
+    "/usr/share/applications/helium.desktop",
+    "/usr/share/applications/code.desktop",
+    "/home/kanoman/.local/share/applications/zen_browser.desktop",
+    "/usr/share/applications/Helix.desktop"
+  ]
+}

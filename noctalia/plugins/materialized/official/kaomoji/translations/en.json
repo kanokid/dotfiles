@@ -1,0 +1,9 @@
+{
+  "title": "Kaomoji",
+  "settings": {
+    "notify_on_copy": {
+      "label": "Notify on copy",
+      "description": "Show a notification when a kaomoji is copied to the clipboard."
+    }
+  }
+}

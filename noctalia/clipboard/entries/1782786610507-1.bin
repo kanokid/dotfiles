@@ -1,0 +1,5 @@
+# Create the necessary local directory structure
+mkdir -p ~/.config/sway
+
+# Copy the default template into your directory
+cp /etc/sway/config ~/.config/sway/config

@@ -1,0 +1,18 @@
+    Mod+Return hotkey-overlay-title="Open a Terminal: ghostty" { spawn "ghostty"; }
+    Mod+D hotkey-overlay-title="Open the Noctalia Launcher" { spawn "noctalia" "msg" "panel-toggle" "launcher"; }
+    Mod+Shift+W hotkey-overlay-title="Open the wallpaper switcher" { spawn "noctalia" "msg" "panel-toggle" "wallpaper"; }
+    Mod+Shift+L hotkey-overlay-title="Open the session menu" { spawn "noctalia" "msg" "panel-toggle" "session"; }
+    Mod+Shift+C hotkey-overlay-title="Open the Noctalia Control Center" { spawn "noctalia" "msg" "panel-toggle control-center"; }
+    Mod+Shift+S hotkey-overlay-title=null hotkey-overlay-title="Open the Noctalia Settings" { spawn "noctalia" "msg" "settings-open"; }
+    Mod+M hotkey-overlay-title=null { spawn "qs" "-c" "noctalia-shell" "ipc" "call" "media" "toggle"; }
+    Mod+E hotkey-overlay-title="Run an Application: zed" { spawn "zed"; }
+    Mod+B hotkey-overlay-title="Run an Application: helium" { spawn "helium"; }
+    Super+F hotkey-overlay-title="Run an Application: nautilus" { spawn "nautilus"; }
+    Mod+Shift+A hotkey-overlay-title="Run an Application: plasma-discover" { spawn "plasma-discover"; }
+    Super+S hotkey-overlay-title="Run an Application: slack" { spawn "slack"; }
+    Super+G hotkey-overlay-title="Run an Application: github-desktop" { spawn "AppImages/github_desktop.appimage"; }
+   // Super+Alt+S hotkey-overlay-title="Run an Application: spotify" { spawn "spotify"; }
+    Super+Shift+G hotkey-overlay-title="Run an Application: godot" { spawn "Downloads/Godot"; }
+    Mod+Shift+K repeat=false hotkey-overlay-title="Run an Application: kicad" { spawn "AppImages/kicad.appimage"; }
+    Super+P hotkey-overlay-title=null { spawn "noctalia" "msg" "media" "toggle"; }
+    Super+N hotkey-overlay-title=null { spawn "noctalia" "msg" "media" "next"; }

@@ -1,0 +1,129 @@
+.',;::::;,'.                 kanoman@fedora
+         .';:cccccccccccc:;,.             --------------
+      .;cccccccccccccccccccccc;.            OS: Fedora Linux 44 (niri Edition) x86_64
+    .:cccccccccccccccccccccccccc:.           Host: 81X2 (IdeaPad Flex 5 14ARE05)
+  .;ccccccccccccc;.:dddl:.;ccccccc;.         Kernel: Linux 7.0.13-200.fc44.x86_64
+ .:ccccccccccccc;OWMKOOXMWd;ccccccc:.        Uptime: 12 hours, 20 mins
+.:ccccccccccccc;KMMc;cc;xMMc;ccccccc:.       Packages: 5 (appimage), 20 (flatpak), 2714 (rpm)
+,cccccccccccccc;MMM.;cc;;WW:;cccccccc,       WM: niri 26.04 (Wayland)
+:cccccccccccccc;MMM.;cccccccccccccccc:      Shell: fish 4.6.0
+:ccccccc;oxOOOo;MMM000k.;cccccccccccc:      Terminal: ghostty 1.3.1-2.fc44
+cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;      Terminal Font: Monaspace Krypton Var (12pt)
+ccccc;XMO';cccc;MMM.;cccccccccccccccc'      CPU: AMD Ryzen 3 4300U (4) @ 2.70 GHz
+ccccc;MMo;ccccc;MMW.;ccccccccccccccc;       GPU: AMD Radeon Vega Series / Radeon Vega Mobile Seri]
+ccccc;0MNc.ccc.xMMd;ccccccccccccccc;        Memory: 1.92 GiB / 3.19 GiB (60%)
+cccccc;dNMWXXXWM0:;cccccccccccccc:,         Swap: 1.34 GiB / 11.19 GiB (12%)
+cccccccc;.:odl:.;cccccccccccccc:,.          Disk: 37.89 GiB / 116.66 GiB (32%) - btrfs
+ccccccccccccccccccccccccccccc:'.            Battery: 36% [Discharging]
+:ccccccccccccccccccccccc:;,..
+ ':cccccccccccccccc::;,.                  ● ● ● ● ● ● ● ●
+
+~
+❯ curl -fsSL https://install.danklinux.com | sh
+Installing Dankinstall v1.4.6 for amd64...
+Downloading installer...
+  % Total    % Received % Xferd  Average Speed  Time    Time    Time   Current
+                                 Dload  Upload  Total   Spent   Left   Speed
+  0      0   0      0   0      0      0      0                              0
+100  2.11M 100  2.11M   0      0  3.97M      0                              0
+  % Total    % Received % Xferd  Average Speed  Time    Time    Time   Current
+                                 Dload  Upload  Total   Spent   Left   Speed
+  0      0   0      0   0      0      0      0                              0
+100     87 100     87   0      0    298      0                              0
+Verifying checksum...
+Decompressing installer...
+Running installer...
+Logging to: /tmp/dankinstall-1782876089.log
+
+Full logs are available at: /tmp/dankinstall-1782876089.log
+
+~ took 2m38s
+❯
+
+~ took 2m38s
+❯ sudo dnf install dms
+Updating and loading repositories:
+ slack                                                     ???% |   0.0   B/s |   0.0   B |  00m00s
+>>> Curl error (77): Problem with the SSL CA cert (path? access rights?) for https://packagecloud.io/slacktechnologies/slack/fedora/21/x86_64/repodata/repomd.xml [error adding trust anchors from file: /etc/pki/tls/certs/ca-bundle.crt] - https://packagecloud.io/slacktechnologies/slack/fedora/21/x86_64/repodata/repomd.xml
+>>> An Curl handle error
+Repositories loaded.
+Package                      Arch   Version                       Repository                   Size
+Installing:
+ dms                         x86_64 0:1.4.6-1.fc44                copr:copr.fedorainfracl  77.2 MiB
+Installing dependencies:
+ cpptrace                    x86_64 0:1.0.4-4.fc44                copr:copr.fedorainfracl 596.6 KiB
+ dgop                        x86_64 1:0.2.3-1.fc44                copr:copr.fedorainfracl   9.0 MiB
+ dms-cli                     x86_64 0:1.4.6-1.fc44                copr:copr.fedorainfracl  24.3 MiB
+ libdwarf                    x86_64 1:2.3.1-1.fc44                fedora                  718.2 KiB
+ quickshell-git              x86_64 0:0.3.1^825.git1661ef1-1.fc44 copr:copr.fedorainfracl   6.2 MiB
+Installing weak dependencies:
+ danksearch                  x86_64 0:0.3.2-1.fc44                copr:copr.fedorainfracl  19.2 MiB
+
+Transaction Summary:
+ Installing:         7 packages
+
+Total size of inbound packages is 35 MiB. Need to download 35 MiB.
+After this operation, 137 MiB extra will be used (install 137 MiB, remove 0 B).
+Is this ok [y/N]: y
+[1/7] dgop-1:0.2.3-1.fc44.x86_64                           100% |   2.2 MiB/s |   3.0 MiB |  00m01s
+[2/7] dms-cli-0:1.4.6-1.fc44.x86_64                        100% |   4.7 MiB/s |   7.1 MiB |  00m02s
+[3/7] dms-0:1.4.6-1.fc44.x86_64                            100% |   3.6 MiB/s |  17.3 MiB |  00m05s
+[4/7] quickshell-git-0:0.3.1^825.git1661ef1-1.fc44.5.x86_6 100% | 537.3 KiB/s |   1.8 MiB |  00m04s
+[5/7] cpptrace-0:1.0.4-4.fc44.x86_64                       100% |  67.8 KiB/s | 230.3 KiB |  00m03s
+[6/7] libdwarf-1:2.3.1-1.fc44.x86_64                       100% | 737.2 KiB/s | 274.2 KiB |  00m00s
+[7/7] danksearch-0:0.3.2-1.fc44.x86_64                     100% |   9.7 MiB/s |   5.8 MiB |  00m01s
+---------------------------------------------------------------------------------------------------
+[7/7] Total                                                100% |   5.7 MiB/s |  35.4 MiB |  00m06s
+[1/8] https://download.copr.fedorainf ???% [<=>               ] |   0.0   B/s |   0.0   B |  00m00s
+[1/8] https://download.copr.fedorainf ???% [<=>               ] |   0.0   B/s |   0.0   B |  00m00s
+[1/8] https://download.copr.fedorainfracloud.org/results/a 100% |   5.8 KiB/s |   1.0 KiB |  00m00s
+---------------------------------------------------------------------------------------------------
+[8/8] Total                                                100% |   5.7 MiB/s |  35.4 MiB |  00m06s
+Importing OpenPGP key 0x1C31FCAE:
+ UserID     : "avengemedia_dms (None) <avengemedia#dms@copr.fedorahosted.org>"
+ Fingerprint: 162D064397AFD540A87168C24BF50D931C31FCAE
+ From       : https://download.copr.fedorainfracloud.org/results/avengemedia/dms/pubkey.gpg
+Is this ok [y/N]: y
+[1/9] https://download.copr.fedorainf ???% [<=>               ] |   0.0   B/s |   0.0   B |  00m00s
+[1/9] https://download.copr.fedorainf ???% [<=>               ] |   0.0   B/s |   0.0   B |  00m00s
+[1/9] https://download.copr.fedorainf ???% [<=>               ] |   0.0   B/s |   0.0   B |  00m00s
+[1/9] https://download.copr.fedorainf ???% [ <=>              ] |   0.0   B/s |   0.0   B |  00m01s
+[1/9] https://download.copr.fedorainf ???% [ <=>              ] |   0.0   B/s |   0.0   B |  00m01s
+[1/9] https://download.copr.fedorainf ???% [  <=>             ] |   0.0   B/s |   0.0   B |  00m01s
+[1/9] https://download.copr.fedorainf ???% [  <=>             ] |   0.0   B/s |   0.0   B |  00m01s
+[1/9] https://download.copr.fedorainf ???% [  <=>             ] |   0.0   B/s |   0.0   B |  00m01s
+[1/9] https://download.copr.fedorainf ???% [   <=>            ] |   0.0   B/s |   0.0   B |  00m02s
+[1/9] https://download.copr.fedorainf ???% [   <=>            ] |   0.0   B/s |   0.0   B |  00m02s
+[1/9] https://download.copr.fedorainf ???% [    <=>           ] |   0.0   B/s |   0.0   B |  00m02s
+[1/9] https://download.copr.fedorainf ???% [    <=>           ] |   0.0   B/s |   0.0   B |  00m02s
+[1/9] https://download.copr.fedorainf ???% [    <=>           ] |   0.0   B/s |   0.0   B |  00m02s
+[1/9] https://download.copr.fedorainf ???% [    <=>           ] |   0.0   B/s |   0.0   B |  00m02s
+[1/9] https://download.copr.fedorainfracloud.org/results/a 100% | 430.0   B/s |   1.0 KiB |  00m02s
+>>> Curl error (35): SSL connect error for https://download.copr.fedorainfracloud.org/results/avengemedia/danklinux/pubkey.gpg [Recv failure: Connection reset by peer] - https://download.copr.fedorainfracloud.org/results/avengemedia/danklinux/pubkey.gpg
+---------------------------------------------------------------------------------------------------
+[9/9] Total                                                100% |   5.7 MiB/s |  35.4 MiB |  00m06s
+Importing OpenPGP key 0x6C2E4F4A:
+ UserID     : "avengemedia_danklinux (None) <avengemedia#danklinux@copr.fedorahosted.org>"
+ Fingerprint: 882B9F1C415EE16EBE149A0DFD1E0AB06C2E4F4A
+ From       : https://download.copr.fedorainfracloud.org/results/avengemedia/danklinux/pubkey.gpg
+Is this ok [y/N]: y
+The key was successfully imported.
+Transaction failed: Rpm transaction failed.
+  - file /usr/bin/quickshell from install of quickshell-git-0.3.1^825.git1661ef1-1.fc44.5.x86_64 conflicts with file from package noctalia-qs-legacy-0.0.12-5.fc44.x86_64
+  - file /usr/lib64/qt6/qml/Quickshell/DBusMenu/quickshell-dbusmenu.qmltypes from install of quickshell-git-0.3.1^825.git1661ef1-1.fc44.5.x86_64 conflicts with file from package noctalia-qs-legacy-0.0.12-5.fc44.x86_64
+  - file /usr/lib64/qt6/qml/Quickshell/Hyprland/_Ipc/quickshell-hyprland-ipc.qmltypes from install of quickshell-git-0.3.1^825.git1661ef1-1.fc44.5.x86_64 conflicts with file from package noctalia-qs-legacy-0.0.12-5.fc44.x86_64
+  - file /usr/lib64/qt6/qml/Quickshell/Hyprland/qmldir from install of quickshell-git-0.3.1^825.git1661ef1-1.fc44.5.x86_64 conflicts with file from package noctalia-qs-legacy-0.0.12-5.fc44.x86_64
+  - file /usr/lib64/qt6/qml/Quickshell/I3/_Ipc/quickshell-i3-ipc.qmltypes from install of quickshell-git-0.3.1^825.git1661ef1-1.fc44.5.x86_64 conflicts with file from package noctalia-qs-legacy-0.0.12-5.fc44.x86_64
+  - file /usr/lib64/qt6/qml/Quickshell/I3/qmldir from install of quickshell-git-0.3.1^825.git1661ef1-1.fc44.5.x86_64 conflicts with file from package noctalia-qs-legacy-0.0.12-5.fc44.x86_64
+  - file /usr/lib64/qt6/qml/Quickshell/Io/quickshell-io.qmltypes from install of quickshell-git-0.3.1^825.git1661ef1-1.fc44.5.x86_64 conflicts with file from package noctalia-qs-legacy-0.0.12-5.fc44.x86_64
+  - file /usr/lib64/qt6/qml/Quickshell/Networking/quickshell-network.qmltypes from install of quickshell-git-0.3.1^825.git1661ef1-1.fc44.5.x86_64 conflicts with file from package noctalia-qs-legacy-0.0.12-5.fc44.x86_64
+  - file /usr/lib64/qt6/qml/Quickshell/Services/Pipewire/quickshell-service-pipewire.qmltypes from install of quickshell-git-0.3.1^825.git1661ef1-1.fc44.5.x86_64 conflicts with file from package noctalia-qs-legacy-0.0.12-5.fc44.x86_64
+  - file /usr/lib64/qt6/qml/Quickshell/Wayland/_ToplevelManagement/quickshell-wayland-toplevel-management.qmltypes from install of quickshell-git-0.3.1^825.git1661ef1-1.fc44.5.x86_64 conflicts with file from package noctalia-qs-legacy-0.0.12-5.fc44.x86_64
+  - file /usr/lib64/qt6/qml/Quickshell/Widgets/IconImage.qml from install of quickshell-git-0.3.1^825.git1661ef1-1.fc44.5.x86_64 conflicts with file from package noctalia-qs-legacy-0.0.12-5.fc44.x86_64
+  - file /usr/lib64/qt6/qml/Quickshell/Widgets/quickshell-widgets.qmltypes from install of quickshell-git-0.3.1^825.git1661ef1-1.fc44.5.x86_64 conflicts with file from package noctalia-qs-legacy-0.0.12-5.fc44.x86_64
+  - file /usr/lib64/qt6/qml/Quickshell/WindowManager/quickshell-windowmanager.qmltypes from install of quickshell-git-0.3.1^825.git1661ef1-1.fc44.5.x86_64 conflicts with file from package noctalia-qs-legacy-0.0.12-5.fc44.x86_64
+  - file /usr/lib64/qt6/qml/Quickshell/_Window/quickshell-window.qmltypes from install of quickshell-git-0.3.1^825.git1661ef1-1.fc44.5.x86_64 conflicts with file from package noctalia-qs-legacy-0.0.12-5.fc44.x86_64
+  - file /usr/lib64/qt6/qml/Quickshell/quickshell-core.qmltypes from install of quickshell-git-0.3.1^825.git1661ef1-1.fc44.5.x86_64 conflicts with file from package noctalia-qs-legacy-0.0.12-5.fc44.x86_64
+
+~ took 17s
+❯

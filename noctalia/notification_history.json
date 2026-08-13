@@ -1,0 +1,821 @@
+{
+  "change_serial": 391,
+  "entries": [
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 297,
+      "notification": {
+        "actions": [
+          "inline-reply",
+          "Reply"
+        ],
+        "app_name": "KDE Connect",
+        "body": "#we-make-good-financial-decisions-here: KittyCat (bot)\n@channel EVERYONE! HELLO RARE CHANNEL PING! go check out #entropy-ysws! do it do it do it! :kitty-wow:",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1782835358862,
+        "icon": "kdeconnect",
+        "id": 273,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_363eb5591cab0a2d9799b7552c259781.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1782835352862,
+        "summary": "Slack",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 299,
+      "notification": {
+        "actions": [
+          "1",
+          "Play",
+          "2",
+          "Turn Off",
+          "3",
+          "Watch Later"
+        ],
+        "app_name": "KDE Connect",
+        "body": "Austin Evans: The Only Laptop You Need",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1782835365096,
+        "icon": "kdeconnect",
+        "id": 274,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_f87eadff5fed93b42190ee5ef3af0598.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1782835359096,
+        "summary": "YouTube",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 301,
+      "notification": {
+        "actions": [
+          "1",
+          "Mark as Read",
+          "inline-reply",
+          "Reply"
+        ],
+        "app_name": "KDE Connect",
+        "body": "Thread in #entropy-ysws: bunnyguy\ni just watched this video with no audio (at work rn) im so confused 😭 whatre u saing",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1782835466895,
+        "icon": "kdeconnect",
+        "id": 275,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_363eb5591cab0a2d9799b7552c259781.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1782835460895,
+        "summary": "Slack",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 308,
+      "notification": {
+        "actions": [
+          "1",
+          "Mark as Read",
+          "inline-reply",
+          "Reply"
+        ],
+        "app_name": "KDE Connect",
+        "body": "Thread in #entropy-ysws: Charles\nWE need a lock in call :yipper:\nbunnyguy\nlets do lock in call at 2:30 est today? (2hr 30 from now)",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1782835558786,
+        "icon": "kdeconnect",
+        "id": 278,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_363eb5591cab0a2d9799b7552c259781.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1782835552786,
+        "summary": "Slack",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 311,
+      "notification": {
+        "actions": [
+          "1",
+          "Mark as Read",
+          "inline-reply",
+          "Reply"
+        ],
+        "app_name": "KDE Connect",
+        "body": "Thread in #entropy-ysws: Petee125678\nIs it just a Orpheus and Heidi sticker:cryin:",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1782835655084,
+        "icon": "kdeconnect",
+        "id": 279,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_363eb5591cab0a2d9799b7552c259781.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1782835649084,
+        "summary": "Slack",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 314,
+      "notification": {
+        "actions": [
+          "1",
+          "Mark as Read",
+          "inline-reply",
+          "Reply"
+        ],
+        "app_name": "KDE Connect",
+        "body": "Thread in #entropy-ysws: Petee125678\nIs it just a Orpheus and Heidi sticker:cryin:\nmaxstellar\nno its the entropy mascotd",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1782835665267,
+        "icon": "kdeconnect",
+        "id": 280,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_363eb5591cab0a2d9799b7552c259781.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1782835659267,
+        "summary": "Slack",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 318,
+      "notification": {
+        "actions": [
+          "1",
+          "Mark as Read",
+          "inline-reply",
+          "Reply"
+        ],
+        "app_name": "KDE Connect",
+        "body": "Thread in #entropy-ysws: Petee125678\nIs it just a Orpheus and Heidi sticker:cryin:\nmaxstellar\nno its the entropy mascotd\nCharmunk\nscroll up one message in the channel\nthere's a sketch of the sticker\nPetee125678\nAwww\nThey kinda look like Pokémon",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1782835700447,
+        "icon": "kdeconnect",
+        "id": 281,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_363eb5591cab0a2d9799b7552c259781.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1782835694447,
+        "summary": "Slack",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 323,
+      "notification": {
+        "actions": [
+          "1",
+          "Mark as Read",
+          "inline-reply",
+          "Reply"
+        ],
+        "app_name": "KDE Connect",
+        "body": "Thread in #entropy-ysws: Petee125678\nIs it just a Orpheus and Heidi sticker:cryin:\nmaxstellar\nno its the entropy mascotd\nCharmunk\nscroll up one message in the channel\nthere's a sketch of the sticker\nPetee125678\nAwww\nThey kinda look like Pokémon\nCharmunk\nwhy is that an aww thing\nmaxstellar\nAwww",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1782835730191,
+        "icon": "kdeconnect",
+        "id": 283,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_363eb5591cab0a2d9799b7552c259781.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1782835724191,
+        "summary": "Slack",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 324,
+      "notification": {
+        "actions": [
+          "1",
+          "Mark as Read",
+          "inline-reply",
+          "Reply"
+        ],
+        "app_name": "KDE Connect",
+        "body": "Thread in #entropy-ysws: Petee125678\nIs it just a Orpheus and Heidi sticker:cryin:\nmaxstellar\nno its the entropy mascotd\nCharmunk\nscroll up one message in the channel\nthere's a sketch of the sticker\nPetee125678\nAwww\nThey kinda look like Pokémon\nCharmunk\nwhy is that an aww thing\nmaxstellar\nAwww\nPetee125678\nPokémon's are cute",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1782835734010,
+        "icon": "kdeconnect",
+        "id": 284,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_363eb5591cab0a2d9799b7552c259781.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1782835727880,
+        "summary": "Slack",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 327,
+      "notification": {
+        "actions": [
+          "1",
+          "Mark as Read",
+          "inline-reply",
+          "Reply"
+        ],
+        "app_name": "KDE Connect",
+        "body": "Thread in #entropy-ysws: Petee125678\nIs it just a Orpheus and Heidi sticker:cryin:\nmaxstellar\nno its the entropy mascotd\nCharmunk\nscroll up one message in the channel\nthere's a sketch of the sticker\nPetee125678\nAwww\nThey kinda look like Pokémon\nCharmunk\nwhy is that an aww thing\nmaxstellar\nAwww\nPetee125678\nPokémon's are cute\nmaxstellar\nThe plural of Pokemon is Pokemon",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1782835743983,
+        "icon": "kdeconnect",
+        "id": 285,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_363eb5591cab0a2d9799b7552c259781.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1782835737983,
+        "summary": "Slack",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 329,
+      "notification": {
+        "actions": [
+          "1",
+          "Mark as Read",
+          "inline-reply",
+          "Reply"
+        ],
+        "app_name": "KDE Connect",
+        "body": "Thread in #entropy-ysws: Petee125678\nIs it just a Orpheus and Heidi sticker:cryin:\nmaxstellar\nno its the entropy mascotd\nCharmunk\nscroll up one message in the channel\nthere's a sketch of the sticker\nPetee125678\nAwww\nThey kinda look like Pokémon\nCharmunk\nwhy is that an aww thing\nmaxstellar\nAwww\nPetee125678\nPokémon's are cute\nmaxstellar\nThe plural of Pokemon is Pokemon\nIt's like sheep",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1782835748242,
+        "icon": "kdeconnect",
+        "id": 286,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_363eb5591cab0a2d9799b7552c259781.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1782835742090,
+        "summary": "Slack",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 330,
+      "notification": {
+        "actions": [
+          "1",
+          "Mark as Read",
+          "inline-reply",
+          "Reply"
+        ],
+        "app_name": "KDE Connect",
+        "body": "Thread in #entropy-ysws: Petee125678\nIs it just a Orpheus and Heidi sticker:cryin:\nmaxstellar\nno its the entropy mascotd\nCharmunk\nscroll up one message in the channel\nthere's a sketch of the sticker\nPetee125678\nAwww\nThey kinda look like Pokémon\nCharmunk\nwhy is that an aww thing\nmaxstellar\nAwww\nPetee125678\nPokémon's are cute\nmaxstellar\nThe plural of Pokemon is Pokemon\nIt's like sheep\nCharmunk\npokemans",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1782835757970,
+        "icon": "kdeconnect",
+        "id": 287,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_363eb5591cab0a2d9799b7552c259781.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1782835748126,
+        "summary": "Slack",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 339,
+      "notification": {
+        "actions": [
+          "1",
+          "Mark as Read",
+          "inline-reply",
+          "Reply"
+        ],
+        "app_name": "KDE Connect",
+        "body": "Thread in #entropy-ysws: Charmunk\nyayy!!!",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1782836017681,
+        "icon": "kdeconnect",
+        "id": 292,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_363eb5591cab0a2d9799b7552c259781.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1782836011681,
+        "summary": "Slack",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 342,
+      "notification": {
+        "actions": [
+          "1",
+          "Mark as Read",
+          "inline-reply",
+          "Reply"
+        ],
+        "app_name": "KDE Connect",
+        "body": "Thread in #entropy-ysws: maxstellar\njune 4th?\nfear",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1782836409895,
+        "icon": "kdeconnect",
+        "id": 293,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_363eb5591cab0a2d9799b7552c259781.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1782836403895,
+        "summary": "Slack",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 346,
+      "notification": {
+        "actions": [
+          "1",
+          "Mark as Read",
+          "inline-reply",
+          "Reply"
+        ],
+        "app_name": "KDE Connect",
+        "body": "Thread in #entropy-ysws: maxstellar\njune 4th?\nfear\nfireentity\n:sk:\nCharmunk\ninvent time travel if u want yuri",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1782836505837,
+        "icon": "kdeconnect",
+        "id": 295,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_363eb5591cab0a2d9799b7552c259781.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1782836499837,
+        "summary": "Slack",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 354,
+      "notification": {
+        "actions": [],
+        "app_name": "FUMonitor",
+        "body": "app-ca.andyholmes.Valent@autostart.service",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1782837289271,
+        "icon": "dialog-warning",
+        "id": 298,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1782837283271,
+        "summary": "Failed unit detected",
+        "timeout": 6000,
+        "urgency": "critical"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 356,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "abrt-applet",
+        "body": "We're sorry, it looks like “valent” crashed. Please contact the developer if you want to report the issue.",
+        "category": null,
+        "desktop_entry": "org.freedesktop.problems.applet",
+        "expiry_wall_ms": 1782837313855,
+        "icon": "face-sad-symbolic",
+        "id": 299,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1782837307855,
+        "summary": "Oops!",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 362,
+      "notification": {
+        "actions": [
+          "inline-reply",
+          "Reply"
+        ],
+        "app_name": "KDE Connect",
+        "body": "Thread in #onekey: Heidi-Fi (bot)\nthat command is unavailable in screen mode. ask the host to switch back with heidi mode music.",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 0,
+        "icon": "kdeconnect",
+        "id": 302,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_363eb5591cab0a2d9799b7552c259781.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1782840926855,
+        "summary": "Slack",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 370,
+      "notification": {
+        "actions": [
+          "1",
+          "Mark as Read",
+          "inline-reply",
+          "Reply"
+        ],
+        "app_name": "KDE Connect",
+        "body": "Thread in #onekey: maxstellar\nexpect a review by tomorrow! :)",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1782842716344,
+        "icon": "kdeconnect",
+        "id": 305,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_363eb5591cab0a2d9799b7552c259781.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1782842710344,
+        "summary": "Slack",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 375,
+      "notification": {
+        "actions": [
+          "1",
+          "Mark as Read",
+          "inline-reply",
+          "Reply"
+        ],
+        "app_name": "KDE Connect",
+        "body": "Thread in #onekey: maxstellar\nexpect a review by tomorrow! :)\nKrishang\nOkayy\nPianoMan0\n:surprised:",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1782842738450,
+        "icon": "kdeconnect",
+        "id": 307,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_363eb5591cab0a2d9799b7552c259781.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1782842732450,
+        "summary": "Slack",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 376,
+      "notification": {
+        "actions": [
+          "1",
+          "Mark as Read",
+          "inline-reply",
+          "Reply"
+        ],
+        "app_name": "KDE Connect",
+        "body": "Thread in #onekey: maxstellar\nexpect a review by tomorrow! :)\nKrishang\nOkayy\nPianoMan0\n:surprised:\nhttp://guides.hackclub.com is goated",
+        "category": null,
+        "desktop_entry": "org.kde.kdeconnect.daemon",
+        "expiry_wall_ms": 1782842742422,
+        "icon": "kdeconnect",
+        "id": 308,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_363eb5591cab0a2d9799b7552c259781.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1782842736422,
+        "summary": "Slack",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 380,
+      "notification": {
+        "actions": [
+          "default",
+          "Action",
+          "app.report('/var/spool/abrt/ccpp-2026-06-30-23:21:10.53116-2570')",
+          "Report"
+        ],
+        "app_name": "abrt-applet",
+        "body": "We're sorry, it looks like a problem occurred. If you'd like to help resolve the issue, please send a report.",
+        "category": null,
+        "desktop_entry": "org.freedesktop.problems.applet",
+        "expiry_wall_ms": 1782876085308,
+        "icon": "face-sad-symbolic",
+        "id": 309,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1782876079308,
+        "summary": "Oops!",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 381,
+      "notification": {
+        "actions": [
+          "1",
+          "Details"
+        ],
+        "app_name": "Crash Reporting System",
+        "body": "/usr/bin/noctalia has encountered a fatal error and was closed.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1782876085696,
+        "icon": "tools-report-bug",
+        "id": 310,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1782876079696,
+        "summary": "Service Crash",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 390,
+      "notification": {
+        "actions": [
+          "1",
+          "Details"
+        ],
+        "app_name": "Crash Reporting System",
+        "body": "/usr/bin/noctalia has encountered a fatal error and was closed.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1784129650714,
+        "icon": "tools-report-bug",
+        "id": 319,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1784129644714,
+        "summary": "Service Crash",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 391,
+      "notification": {
+        "actions": [
+          "default",
+          "Action",
+          "app.report('/var/spool/abrt/ccpp-2026-07-15-11:33:56.212199-439900')",
+          "Report"
+        ],
+        "app_name": "abrt-applet",
+        "body": "We're sorry, it looks like a problem occurred. If you'd like to help resolve the issue, please send a report.",
+        "category": null,
+        "desktop_entry": "org.freedesktop.problems.applet",
+        "expiry_wall_ms": 1784129650833,
+        "icon": "face-sad-symbolic",
+        "id": 318,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1784129644538,
+        "summary": "Oops!",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    }
+  ],
+  "next_id": 327,
+  "version": 2
+}

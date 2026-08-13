@@ -1,0 +1,5 @@
+include "./noctalia.kdl"
+include "./keybinds.kdl"
+include "./rules.kdl"
+include optional=true "./animations.kdl"
+include optional=true "./noctaliav5.kdl"

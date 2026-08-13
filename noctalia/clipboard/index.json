@@ -1,0 +1,1240 @@
+{
+  "entries": [
+    {
+      "byte_size": 109,
+      "captured_at_ms": 1785264811681,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1785264811681-1",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1785264811681-1.bin",
+      "pinned": false,
+      "text_preview": "https://hackclub.slack.com/archives/C0188CY57PZ/p1785213477215019?thread_ts=1785212825.160449&cid=C0188CY57PZ"
+    },
+    {
+      "byte_size": 8,
+      "captured_at_ms": 1785205112031,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1785205112031-2",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "chromium/x-source-url",
+        "STRING",
+        "text/html"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1785205112031-2.bin",
+      "pinned": false,
+      "text_preview": "strftime"
+    },
+    {
+      "byte_size": 8,
+      "captured_at_ms": 1785205069622,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1785205069622-1",
+      "mime_types": [
+        "text/plain;charset=utf-8",
+        "text/plain"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1785205069622-1.bin",
+      "pinned": false,
+      "text_preview": "{:%H:%M}"
+    },
+    {
+      "byte_size": 32,
+      "captured_at_ms": 1784777943451,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1784777943451-1",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1784777943451-1.bin",
+      "pinned": false,
+      "text_preview": "the win11 install on my desktop "
+    },
+    {
+      "byte_size": 154,
+      "captured_at_ms": 1782876646076,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782876646076-1",
+      "mime_types": [
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "text/plain",
+        "pid/73657"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782876646076-1.bin",
+      "pinned": false,
+      "text_preview": "include \"./noctalia.kdl\" include \"./keybinds.kdl\" include \"./rules.kdl\" include optional=true \"./animations.kdl\" include optional=true \"./noctaliav5.kdl\" "
+    },
+    {
+      "byte_size": 34,
+      "captured_at_ms": 1782876427145,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782876427145-7",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "STRING",
+        "chromium/x-source-url"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782876427145-7.bin",
+      "pinned": false,
+      "text_preview": "sudo dnf remove noctalia-qs-legacy"
+    },
+    {
+      "byte_size": 11231,
+      "captured_at_ms": 1782876407460,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782876407460-6",
+      "mime_types": [
+        "text/plain;charset=utf-8",
+        "text/plain",
+        "text/html"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782876407460-6.bin",
+      "pinned": false,
+      "text_preview": ".',;::::;,'.                 kanoman@fedora          .';:cccccccccccc:;,.             --------------       .;cccccccccccccccccccccc;.            OS: Fedora Linux 44 (niri Edition) x86_64     .:cccc"
+    },
+    {
+      "byte_size": 20,
+      "captured_at_ms": 1782876376237,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782876376237-5",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "chromium/x-source-url",
+        "STRING",
+        "text/html"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782876376237-5.bin",
+      "pinned": false,
+      "text_preview": "sudo dnf install dms"
+    },
+    {
+      "byte_size": 42,
+      "captured_at_ms": 1782876237695,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782876237695-4",
+      "mime_types": [
+        "text/plain;charset=utf-8",
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "TEXT",
+        "STRING"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782876237695-4.bin",
+      "pinned": false,
+      "text_preview": "https://danklinux.com/docs/getting-started"
+    },
+    {
+      "byte_size": 1986,
+      "captured_at_ms": 1782876178895,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782876178895-3",
+      "mime_types": [
+        "text/plain;charset=utf-8",
+        "text/plain",
+        "text/html"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782876178895-3.bin",
+      "pinned": false,
+      "text_preview": "Debug Logs  17:  Copr repo for dms owned by avengemedia 100% |   5.7 KiB/s |   3.0 KiB |  00m01s 18:  Copr repo for dms owned by avengemedia 100% |   5.7 KiB/s |   3.0 KiB |  00m01s 19:  Copr repo for"
+    },
+    {
+      "byte_size": 1318,
+      "captured_at_ms": 1782876164078,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782876164078-2",
+      "mime_types": [
+        "text/plain;charset=utf-8",
+        "text/plain",
+        "text/html"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782876164078-2.bin",
+      "pinned": false,
+      "text_preview": "Installation Failed  Package Installation Error: failed to install COPR packages: exit status 1  Installation Logs (last 15 lines):     - package noctalia-qs-legacy-0.0.12-5.fc44.x86_64 from copr:copr"
+    },
+    {
+      "byte_size": 45,
+      "captured_at_ms": 1782876016184,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782876016184-16",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "STRING",
+        "chromium/x-source-url"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782876016184-16.bin",
+      "pinned": false,
+      "text_preview": "curl -fsSL https://install.danklinux.com | sh"
+    },
+    {
+      "byte_size": 15381,
+      "captured_at_ms": 1782842246060,
+      "data_mime_type": "image/png",
+      "id": "1782842246060-15",
+      "mime_types": [
+        "image/png"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782842246060-15.bin",
+      "pinned": false,
+      "text_preview": ""
+    },
+    {
+      "byte_size": 32,
+      "captured_at_ms": 1782842087379,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782842087379-14",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-web-custom-data",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "STRING",
+        "chromium/x-source-url"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782842087379-14.bin",
+      "pinned": false,
+      "text_preview": "maxstellar in #onekey do usb hub"
+    },
+    {
+      "byte_size": 109,
+      "captured_at_ms": 1782841671992,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782841671992-13",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "STRING",
+        "chromium/x-source-url"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782841671992-13.bin",
+      "pinned": false,
+      "text_preview": "https://hackclub.slack.com/archives/C0AM132QQUR/p1782841322794469?thread_ts=1782837834.993339&cid=C0AM132QQUR"
+    },
+    {
+      "byte_size": 28,
+      "captured_at_ms": 1782841669234,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782841669234-12",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-web-custom-data",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "STRING",
+        "chromium/x-source-url"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782841669234-12.bin",
+      "pinned": false,
+      "text_preview": "no :3 i am not hardware nerd"
+    },
+    {
+      "byte_size": 16768,
+      "captured_at_ms": 1782840517522,
+      "data_mime_type": "image/png",
+      "id": "1782840517522-11",
+      "mime_types": [
+        "image/png"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782840517522-11.bin",
+      "pinned": false,
+      "text_preview": ""
+    },
+    {
+      "byte_size": 45,
+      "captured_at_ms": 1782840444441,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782840444441-10",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "STRING",
+        "chromium/x-source-url"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782840444441-10.bin",
+      "pinned": false,
+      "text_preview": "https://hcb.hackclub.com/ysws-budget-max-tran"
+    },
+    {
+      "byte_size": 76,
+      "captured_at_ms": 1782835148314,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782835148314-8",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-web-custom-data",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "chromium/x-source-url",
+        "STRING",
+        "text/html"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782835148314-8.bin",
+      "pinned": false,
+      "text_preview": "https://hackclub.enterprise.slak.com/archives/C08T6CY7S10/p1782833804063589 "
+    },
+    {
+      "byte_size": 76,
+      "captured_at_ms": 1782835113650,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782835113650-7",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-web-custom-data",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "chromium/x-source-url",
+        "STRING",
+        "text/html"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782835113650-7.bin",
+      "pinned": false,
+      "text_preview": "https://hackclub.enterprise.slack.com/archives/C09T3QT29LY/p1782834375912839"
+    },
+    {
+      "byte_size": 65,
+      "captured_at_ms": 1782834509272,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782834509272-6",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "STRING",
+        "chromium/x-source-url"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782834509272-6.bin",
+      "pinned": false,
+      "text_preview": "https://hackclub.slack.com/archives/C0AN7GZ35GU/p1782833807004539"
+    },
+    {
+      "byte_size": 2797422,
+      "captured_at_ms": 1782833127113,
+      "data_mime_type": "image/png",
+      "id": "1782833127113-5",
+      "mime_types": [
+        "image/png"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782833127113-5.bin",
+      "pinned": false,
+      "text_preview": ""
+    },
+    {
+      "byte_size": 3248011,
+      "captured_at_ms": 1782833111467,
+      "data_mime_type": "image/png",
+      "id": "1782833111467-4",
+      "mime_types": [
+        "image/png"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782833111467-4.bin",
+      "pinned": false,
+      "text_preview": ""
+    },
+    {
+      "byte_size": 2831863,
+      "captured_at_ms": 1782833068588,
+      "data_mime_type": "image/png",
+      "id": "1782833068588-3",
+      "mime_types": [
+        "image/png"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782833068588-3.bin",
+      "pinned": false,
+      "text_preview": ""
+    },
+    {
+      "byte_size": 3255058,
+      "captured_at_ms": 1782832919250,
+      "data_mime_type": "image/png",
+      "id": "1782832919250-2",
+      "mime_types": [
+        "image/png"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782832919250-2.bin",
+      "pinned": false,
+      "text_preview": ""
+    },
+    {
+      "byte_size": 53,
+      "captured_at_ms": 1782830343555,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782830343554-9",
+      "mime_types": [
+        "STRING",
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "TEXT"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782830343554-9.bin",
+      "pinned": false,
+      "text_preview": "font-family = \"Monaspace Krypton Var\" font-size = 12 "
+    },
+    {
+      "byte_size": 37,
+      "captured_at_ms": 1782830339766,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782830339766-8",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "STRING",
+        "TEXT",
+        "UTF8_STRING"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782830339766-8.bin",
+      "pinned": false,
+      "text_preview": "font-family = \"Monaspace Krypton Var\""
+    },
+    {
+      "byte_size": 257,
+      "captured_at_ms": 1782830236082,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782830236082-7",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "STRING",
+        "chromium/x-source-url"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782830236082-7.bin",
+      "pinned": false,
+      "text_preview": "# Apply a global weight to the regular font style font-variation = wght=400  # Customize how the bold style should look using the variable font font-variation-bold = wght=600  # Customize the italic s"
+    },
+    {
+      "byte_size": 41,
+      "captured_at_ms": 1782830140086,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782830140086-6",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "STRING",
+        "chromium/x-source-url"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782830140086-6.bin",
+      "pinned": false,
+      "text_preview": "font-family = \"Fira Code\" font-size = 14 "
+    },
+    {
+      "byte_size": 31,
+      "captured_at_ms": 1782830086048,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782830086039-5",
+      "mime_types": [
+        "text/plain;charset=utf-8",
+        "text/plain",
+        "text/html"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782830086039-5.bin",
+      "pinned": false,
+      "text_preview": "  Monaspace Krypton Var Regular"
+    },
+    {
+      "byte_size": 73,
+      "captured_at_ms": 1782829768844,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782829768844-2",
+      "mime_types": [
+        "x-special/gnome-copied-files",
+        "text/plain;charset=utf-8",
+        "text/uri-list",
+        "application/vnd.portal.filetransfer",
+        "application/vnd.portal.files"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782829768844-2.bin",
+      "pinned": false,
+      "text_preview": "/home/kanoman/.config/noctalia/colorschemes/Sway Classic/SwayClassic.json"
+    },
+    {
+      "byte_size": 2429,
+      "captured_at_ms": 1782829583357,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782829583357-1",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "STRING",
+        "chromium/x-source-url"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782829583357-1.bin",
+      "pinned": false,
+      "text_preview": "{   \"dark\": {     \"mPrimary\": \"#4C7899\",     \"mOnPrimary\": \"#FFFFFF\",     \"mSecondary\": \"#2E9EF4\",     \"mOnSecondary\": \"#111111\",     \"mTertiary\": \"#5F676A\",     \"mOnTertiary\": \"#FFFFFF\",     \"mError\""
+    },
+    {
+      "byte_size": 32,
+      "captured_at_ms": 1782802054021,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782802054021-5",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "STRING",
+        "chromium/x-source-url"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782802054021-5.bin",
+      "pinned": false,
+      "text_preview": "sudo dnf group list --available "
+    },
+    {
+      "byte_size": 867187,
+      "captured_at_ms": 1782799834826,
+      "data_mime_type": "image/png",
+      "id": "1782799834826-4",
+      "mime_types": [
+        "image/png"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782799834826-4.bin",
+      "pinned": false,
+      "text_preview": ""
+    },
+    {
+      "byte_size": 17,
+      "captured_at_ms": 1782798484157,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782798484157-3",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "chromium/x-source-url",
+        "STRING",
+        "text/html"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782798484157-3.bin",
+      "pinned": false,
+      "text_preview": "/dev/input/event4"
+    },
+    {
+      "byte_size": 17,
+      "captured_at_ms": 1782798451210,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782798451210-2",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "chromium/x-source-url",
+        "STRING",
+        "text/html"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782798451210-2.bin",
+      "pinned": false,
+      "text_preview": "/dev/input/event*"
+    },
+    {
+      "byte_size": 6,
+      "captured_at_ms": 1782798084641,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782798084641-11",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "STRING",
+        "chromium/x-source-url"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782798084641-11.bin",
+      "pinned": false,
+      "text_preview": "groups"
+    },
+    {
+      "byte_size": 17,
+      "captured_at_ms": 1782798036190,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782798036190-10",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "chromium/x-source-url",
+        "STRING",
+        "text/html"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782798036190-10.bin",
+      "pinned": false,
+      "text_preview": "/dev/input/event*"
+    },
+    {
+      "byte_size": 17,
+      "captured_at_ms": 1782797945528,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782797945528-9",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "chromium/x-source-url",
+        "STRING",
+        "text/html"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782797945528-9.bin",
+      "pinned": false,
+      "text_preview": "/dev/input/event4"
+    },
+    {
+      "byte_size": 943,
+      "captured_at_ms": 1782797919645,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782797919645-8",
+      "mime_types": [
+        "text/plain;charset=utf-8",
+        "text/plain",
+        "text/html"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782797919645-8.bin",
+      "pinned": false,
+      "text_preview": "❯ cat /proc/bus/input/devices | grep -E 'Name=|Handlers=' N: Name=\"Power Button\" H: Handlers=kbd event0 N: Name=\"Lid Switch\" H: Handlers=event1 N: Name=\"Sleep Button\" H: Handlers=kbd event2 N: Name="
+    },
+    {
+      "byte_size": 55,
+      "captured_at_ms": 1782797910501,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782797910501-7",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "STRING",
+        "chromium/x-source-url"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782797910501-7.bin",
+      "pinned": false,
+      "text_preview": "cat /proc/bus/input/devices | grep -E 'Name=|Handlers='"
+    },
+    {
+      "byte_size": 17,
+      "captured_at_ms": 1782797900236,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782797900236-6",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "chromium/x-source-url",
+        "STRING",
+        "text/html"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782797900236-6.bin",
+      "pinned": false,
+      "text_preview": "/dev/input/event*"
+    },
+    {
+      "byte_size": 102,
+      "captured_at_ms": 1782797859706,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782797859706-5",
+      "mime_types": [
+        "text/plain;charset=utf-8",
+        "text/plain",
+        "text/html"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782797859706-5.bin",
+      "pinned": false,
+      "text_preview": "~ took 8s ❯ ls -l /dev/input/by-id/ ls: cannot access '/dev/input/by-id/': No such file or directory"
+    },
+    {
+      "byte_size": 23,
+      "captured_at_ms": 1782797852407,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782797852407-4",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "STRING",
+        "chromium/x-source-url"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782797852407-4.bin",
+      "pinned": false,
+      "text_preview": "ls -l /dev/input/by-id/"
+    },
+    {
+      "byte_size": 28,
+      "captured_at_ms": 1782797835155,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782797835155-3",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "STRING",
+        "chromium/x-source-url"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782797835155-3.bin",
+      "pinned": false,
+      "text_preview": "sudo usermod -aG input $USER"
+    },
+    {
+      "byte_size": 517,
+      "captured_at_ms": 1782797783673,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782797783673-2",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "chromium/x-source-url",
+        "STRING",
+        "text/html"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782797783673-2.bin",
+      "pinned": false,
+      "text_preview": "Add the cat widget to a bar from Noctalia's widget picker. Click the cat to pause or resume it.  Keyboard reactivity is disabled until input_devices is configured. Use stable paths from /dev/input/by-"
+    },
+    {
+      "byte_size": 31,
+      "captured_at_ms": 1782796933008,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782796933008-1",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782796933008-1.bin",
+      "pinned": false,
+      "text_preview": "sudo usermod -a -G input $USER "
+    },
+    {
+      "byte_size": 29,
+      "captured_at_ms": 1782793462327,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782793462327-1",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782793462327-1.bin",
+      "pinned": false,
+      "text_preview": "niri msg action reload-config"
+    },
+    {
+      "byte_size": 39,
+      "captured_at_ms": 1782793028677,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782793028677-10",
+      "mime_types": [
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "text/plain",
+        "pid/225871"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782793028677-10.bin",
+      "pinned": false,
+      "text_preview": "spawn-at-startup \"qs -c noctalia-shell\""
+    },
+    {
+      "byte_size": 141,
+      "captured_at_ms": 1782792916316,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782792916316-9",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "STRING",
+        "chromium/x-source-url"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782792916316-9.bin",
+      "pinned": false,
+      "text_preview": "    Super+P hotkey-overlay-title=null { spawn \"playerctl\" \"play-pause\"; }     Super+N hotkey-overlay-title=null { spawn \"playerctl\" \"next\"; }"
+    },
+    {
+      "byte_size": 819,
+      "captured_at_ms": 1782792898638,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782792898638-8",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "STRING",
+        "chromium/x-source-url"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782792898638-8.bin",
+      "pinned": false,
+      "text_preview": "    Mod+D hotkey-overlay-title=\"Open the Noctalia Launcher\" { spawn \"qs\" \"-c\" \"noctalia-shell\" \"ipc\" \"call\" \"launcher\" \"toggle\"; }     Mod+Shift+W hotkey-overlay-title=\"Open the wallpaper switcher\" { "
+    },
+    {
+      "byte_size": 102,
+      "captured_at_ms": 1782792328077,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782792328077-7",
+      "mime_types": [
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "text/plain",
+        "pid/225871"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782792328077-7.bin",
+      "pinned": false,
+      "text_preview": "   Mod+M hotkey-overlay-title=null { spawn \"qs\" \"-c\" \"noctalia-shell\" \"ipc\" \"call\" \"media\" \"toggle\"; }"
+    },
+    {
+      "byte_size": 1810,
+      "captured_at_ms": 1782792193894,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782792193894-5",
+      "mime_types": [
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "text/plain",
+        "pid/225871"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782792193894-5.bin",
+      "pinned": false,
+      "text_preview": "    Mod+Return hotkey-overlay-title=\"Open a Terminal: ghostty\" { spawn \"ghostty\"; }     Mod+D hotkey-overlay-title=\"Open the Noctalia Launcher\" { spawn \"noctalia\" \"msg\" \"panel-toggle\" \"launcher\"; }   "
+    },
+    {
+      "byte_size": 407,
+      "captured_at_ms": 1782791967017,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782791967017-4",
+      "mime_types": [
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "text/plain",
+        "pid/225871"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782791967017-4.bin",
+      "pinned": false,
+      "text_preview": "    // Example media keys mapping using playerctl.     // This will work with any MPRIS-enabled media player.     XF86AudioPlay allow-when-locked=true { spawn-sh \"playerctl play-pause\"; }     XF86Audi"
+    },
+    {
+      "byte_size": 297,
+      "captured_at_ms": 1782791958246,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782791958246-3",
+      "mime_types": [
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "text/plain",
+        "pid/225871"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782791958246-3.bin",
+      "pinned": false,
+      "text_preview": "    XF86AudioPlay allow-when-locked=true { spawn-sh \"playerctl play-pause\"; }     XF86AudioStop allow-when-locked=true { spawn-sh \"playerctl stop\"; }     XF86AudioPrev allow-when-locked=true { spawn-s"
+    },
+    {
+      "byte_size": 27,
+      "captured_at_ms": 1782791193577,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782791193570-2",
+      "mime_types": [
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "text/plain",
+        "pid/225124"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782791193570-2.bin",
+      "pinned": false,
+      "text_preview": "spawn-at-startup \"noctalia\""
+    },
+    {
+      "byte_size": 344,
+      "captured_at_ms": 1782788965127,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782788965127-1",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "STRING",
+        "chromium/x-source-url"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782788965127-1.bin",
+      "pinned": false,
+      "text_preview": "# ~/.config/noctalia/config.toml  [bar.widgets.workspaces] # Forces Noctalia to show sequential positional index numbers (1, 2, 3...) # instead of literal Hyprland Workspace IDs (like 2, 5, 8...) disp"
+    },
+    {
+      "byte_size": 45,
+      "captured_at_ms": 1782787336997,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782787336997-1",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "STRING",
+        "chromium/x-source-url"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782787336997-1.bin",
+      "pinned": false,
+      "text_preview": "curl -fsSL https://opencode.ai/install | bash"
+    },
+    {
+      "byte_size": 53,
+      "captured_at_ms": 1782787149838,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782787149838-1",
+      "mime_types": [
+        "application/glfw+clipboard-183397",
+        "TEXT",
+        "STRING",
+        "UTF8_STRING",
+        "text/plain;charset=utf-8",
+        "text/plain"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782787149838-1.bin",
+      "pinned": false,
+      "text_preview": "hl.bind(mainMod .. \" + Q\", hl.dsp.exec_cmd(terminal))"
+    },
+    {
+      "byte_size": 164,
+      "captured_at_ms": 1782786610507,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782786610507-1",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782786610507-1.bin",
+      "pinned": false,
+      "text_preview": "# Create the necessary local directory structure mkdir -p ~/.config/sway  # Copy the default template into your directory cp /etc/sway/config ~/.config/sway/config "
+    },
+    {
+      "byte_size": 49,
+      "captured_at_ms": 1782786539296,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782786539295-3",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-internal-source-rfh-token",
+        "TEXT",
+        "STRING",
+        "chromium/x-source-url"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782786539295-3.bin",
+      "pinned": false,
+      "text_preview": "default_border none default_floating_border none "
+    },
+    {
+      "byte_size": 52,
+      "captured_at_ms": 1782786239035,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782786239035-2",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-internal-source-rfh-token",
+        "TEXT",
+        "chromium/x-source-url",
+        "STRING",
+        "text/html"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782786239035-2.bin",
+      "pinned": false,
+      "text_preview": "input \"type:touchpad\" {     natural_scroll enabled }"
+    },
+    {
+      "byte_size": 7003,
+      "captured_at_ms": 1782786128719,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782786128719-1",
+      "mime_types": [
+        "chromium/x-web-custom-data",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "text/plain",
+        "UTF8_STRING",
+        "TEXT",
+        "STRING",
+        "chromium/x-source-url"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782786128719-1.bin",
+      "pinned": false,
+      "text_preview": "# Read `man 5 sway` for a complete reference. exec noctalia ### Variables # # Logo key. Use Mod1 for Alt. set $mod Mod4 # Home row direction keys, like vim set $left h set $down j set $up k set $right"
+    },
+    {
+      "byte_size": 36,
+      "captured_at_ms": 1782785919987,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782785919987-1",
+      "mime_types": [
+        "chromium/x-web-custom-data",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "text/plain",
+        "UTF8_STRING",
+        "STRING",
+        "TEXT",
+        "text/html",
+        "chromium/x-source-url"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782785919987-1.bin",
+      "pinned": false,
+      "text_preview": "\"noctalia msg panel-toggle launcher\""
+    },
+    {
+      "byte_size": 164,
+      "captured_at_ms": 1782785541174,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782785541174-2",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "STRING",
+        "chromium/x-source-url"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782785541174-2.bin",
+      "pinned": false,
+      "text_preview": "# Create the necessary local directory structure mkdir -p ~/.config/sway  # Copy the default template into your directory cp /etc/sway/config ~/.config/sway/config "
+    },
+    {
+      "byte_size": 97,
+      "captured_at_ms": 1782784879467,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782784879467-2",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "STRING",
+        "chromium/x-source-url"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782784879467-2.bin",
+      "pinned": false,
+      "text_preview": "hl.bind(\"SUPER + X\", function()     hl.dispatch(hl.dsp.window.float({ action = \"toggle\" })) end) "
+    },
+    {
+      "byte_size": 59,
+      "captured_at_ms": 1782784873805,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782784873805-1",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "chromium/x-source-url",
+        "STRING",
+        "text/html"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782784873805-1.bin",
+      "pinned": false,
+      "text_preview": "    hl.dispatch(hl.dsp.window.float({ action = \"toggle\" }))"
+    },
+    {
+      "byte_size": 6046,
+      "captured_at_ms": 1782783167147,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782783167147-5",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-web-custom-data",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "chromium/x-source-url",
+        "STRING",
+        "text/html"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782783167147-5.bin",
+      "pinned": false,
+      "text_preview": "local M = \"SUPER\"  hl.config({     autogenerated = false,      env = {         \"QT_QPA_PLATFORMTHEME,qt6ct\"     },      monitor = {         \", 1920x1080@120, 1280x0, 2\"     },      input = {         k"
+    },
+    {
+      "byte_size": 46,
+      "captured_at_ms": 1782759381061,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782759381061-3",
+      "mime_types": [
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "text/plain",
+        "pid/104333"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782759381061-3.bin",
+      "pinned": false,
+      "text_preview": "\"noctalia\" \"msg\" \"panel-toggle control-center\""
+    },
+    {
+      "byte_size": 40,
+      "captured_at_ms": 1782759132527,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782759132527-4",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "STRING",
+        "chromium/x-source-url"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782759132527-4.bin",
+      "pinned": false,
+      "text_preview": "noctalia msg panel-toggle control-center"
+    },
+    {
+      "byte_size": 42,
+      "captured_at_ms": 1782758414949,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782758414949-3",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "STRING",
+        "chromium/x-source-url"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782758414949-3.bin",
+      "pinned": false,
+      "text_preview": "https://www.facebook.com/TheFedoraProject/"
+    },
+    {
+      "byte_size": 8,
+      "captured_at_ms": 1782757987558,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782757987558-2",
+      "mime_types": [
+        "text/plain;charset=utf-8",
+        "text/plain"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782757987558-2.bin",
+      "pinned": false,
+      "text_preview": "{:%H:%M}"
+    },
+    {
+      "byte_size": 29,
+      "captured_at_ms": 1782757023506,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1782757023506-1",
+      "mime_types": [
+        "text/plain",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "chromium/x-internal-source-rfh-token",
+        "text/plain;charset=utf-8",
+        "TEXT",
+        "STRING",
+        "chromium/x-source-url"
+      ],
+      "payload_path": "/home/kanoman/.local/state/noctalia/clipboard/entries/1782757023506-1.bin",
+      "pinned": false,
+      "text_preview": "sudo dnf install noctalia-git"
+    }
+  ]
+}

@@ -22,3 +22,4 @@ function y
 	end
 	command rm -f -- "$tmp"
 end
+set -p PATH $HOME/.cargo/bin

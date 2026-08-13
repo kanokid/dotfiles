@@ -1,0 +1,1 @@
+   Mod+M hotkey-overlay-title=null { spawn "qs" "-c" "noctalia-shell" "ipc" "call" "media" "toggle"; }

@@ -1,0 +1,8 @@
+# Apply a global weight to the regular font style
+font-variation = wght=400
+
+# Customize how the bold style should look using the variable font
+font-variation-bold = wght=600
+
+# Customize the italic style (e.g., slant axis)
+font-variation-italic = slnt=-10

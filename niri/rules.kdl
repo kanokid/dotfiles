@@ -41,8 +41,8 @@ window-rule {
 }
     window-rule {
         opacity 0.8
-        match app-id="com.mitchellh.ghostty"
-//        match app-id="^(com.mitchellh.ghostty|code)$"
+//        match app-id="com.mitchellh.ghostty"
+        match app-id="^(com.mitchellh.ghostty|kitty)$"
 //        match app-id="^(com.mitchellh.ghostty|code)$"
 //       match app-id="^(code|org.kde.dolphin|spotify|Spotify)$"
     background-effect {

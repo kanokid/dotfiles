@@ -1,0 +1,340 @@
+[audio]
+enable_sounds = true
+
+[bar]
+order = [ "default" ]
+
+    [bar.default]
+    capsule = true
+    capsule_padding = 7.0
+    capsule_radius = 11
+    center = [ "clock", "weather" ]
+    enabled = true
+    end = [ "tray", "notifications", "cpu", "ram", "battery", "control-center" ]
+    font_weight = 400
+    layer = "overlay"
+    margin_edge = 5
+    margin_ends = 5
+    padding = 5
+    position = "left"
+    shadow = false
+    start = [ "session", "workspaces", "media" ]
+    thickness = 40
+
+[brightness]
+enable_ddcutil = true
+
+[control_center]
+hidden_tabs = [ "monitor" ]
+sidebar = "full"
+
+    [[control_center.shortcuts]]
+    type = "wifi"
+
+    [[control_center.shortcuts]]
+    type = "bluetooth"
+
+    [[control_center.shortcuts]]
+    type = "caffeine"
+
+    [[control_center.shortcuts]]
+    type = "nightlight"
+
+    [[control_center.shortcuts]]
+    type = "notification"
+
+    [[control_center.shortcuts]]
+    type = "dark_mode"
+
+[desktop_widgets]
+schema_version = 2
+widget_order = [ "desktop-widget-0000000000000001", "desktop-widget-0000000000000003", "desktop-widget-0000000000000004" ]
+
+    [desktop_widgets.grid]
+    cell_size = 16
+    major_interval = 4
+    visible = true
+
+    [desktop_widgets.widget.desktop-widget-0000000000000001]
+    box_height = 272.0
+    box_width = 256.0
+    cx = 1392.0
+    cy = 200.0
+    output = "eDP-1"
+    rotation = -0.0
+    type = "weather"
+
+        [desktop_widgets.widget.desktop-widget-0000000000000001.settings]
+        color = "primary"
+        forecast_days = 6
+        shadow = false
+        show_forecast = true
+
+    [desktop_widgets.widget.desktop-widget-0000000000000003]
+    box_height = 0.0
+    box_width = 0.0
+    cx = 1348.3499755859375
+    cy = 432.0
+    output = "eDP-1"
+    rotation = 0.0
+    type = "media_player"
+
+        [desktop_widgets.widget.desktop-widget-0000000000000003.settings]
+        color = "primary"
+        hide_when_no_media = true
+        shadow = false
+
+    [desktop_widgets.widget.desktop-widget-0000000000000004]
+    box_height = 160.0
+    box_width = 336.0
+    cx = 1352.0
+    cy = 608.0
+    output = "eDP-1"
+    rotation = 0.0
+    type = "audio_visualizer"
+
+        [desktop_widgets.widget.desktop-widget-0000000000000004.settings]
+        bands = 32
+        centered = false
+        color_1 = "primary"
+        color_2 = "tertiary"
+        mirrored = false
+        show_when_idle = false
+
+[dock]
+auto_hide = true
+enabled = true
+launcher_icon = "rocket"
+launcher_position = "start"
+magnification = false
+reserve_space = false
+shadow = false
+show_dots = true
+
+[location]
+address = "friedens"
+auto_locate = true
+
+[lockscreen]
+fingerprint = false
+
+[lockscreen_widgets]
+enabled = true
+schema_version = 2
+widget_order = [
+    "lockscreen-login-box@eDP-1",
+    "lockscreen-widget-0000000000000001",
+    "lockscreen-widget-0000000000000003",
+    "lockscreen-widget-0000000000000004",
+    "lockscreen-widget-0000000000000005"
+]
+
+    [lockscreen_widgets.grid]
+    cell_size = 16
+    major_interval = 4
+    visible = true
+
+    [lockscreen_widgets.widget."lockscreen-login-box@eDP-1"]
+    box_height = 70.0
+    box_width = 400.0
+    cx = 600.0
+    cy = 632.0
+    output = "eDP-1"
+    rotation = 0.0
+    type = "login_box"
+
+        [lockscreen_widgets.widget."lockscreen-login-box@eDP-1".settings]
+        background_color = "surface_variant"
+        background_opacity = 0.88
+        background_radius = 12.0
+        input_opacity = 1.0
+        input_radius = 6.0
+        show_login_button = true
+
+    [lockscreen_widgets.widget.lockscreen-widget-0000000000000001]
+    box_height = 0.0
+    box_width = 0.0
+    cx = 610.5
+    cy = 360.0
+    output = "eDP-1"
+    rotation = 0.0
+    type = "clock"
+
+        [lockscreen_widgets.widget.lockscreen-widget-0000000000000001.settings]
+        clock_style = "digital"
+        color = "primary"
+        format = "{:%l:%M %p}"
+
+    [lockscreen_widgets.widget.lockscreen-widget-0000000000000003]
+    box_height = 0.0
+    box_width = 0.0
+    cx = 1088.0
+    cy = 456.4000244140625
+    output = "eDP-1"
+    rotation = 0.0
+    type = "media_player"
+
+        [lockscreen_widgets.widget.lockscreen-widget-0000000000000003.settings]
+        color = "tertiary"
+        hide_when_no_media = true
+        layout = "horizontal"
+        shadow = false
+
+    [lockscreen_widgets.widget.lockscreen-widget-0000000000000004]
+    box_height = 0.0
+    box_width = 0.0
+    cx = 606.0
+    cy = 517.4000244140625
+    output = "eDP-1"
+    rotation = 0.0
+    type = "weather"
+
+        [lockscreen_widgets.widget.lockscreen-widget-0000000000000004.settings]
+        color = "primary"
+        shadow = false
+
+    [lockscreen_widgets.widget.lockscreen-widget-0000000000000005]
+    box_height = 0.0
+    box_width = 0.0
+    cx = 1121.0
+    cy = 631.79998779296875
+    output = "eDP-1"
+    rotation = 0.0
+    type = "audio_visualizer"
+
+        [lockscreen_widgets.widget.lockscreen-widget-0000000000000005.settings]
+        bands = 32
+        centered = false
+        color_1 = "primary"
+        color_2 = "outline"
+        mirrored = false
+        show_when_idle = false
+
+[osd]
+orientation = "vertical"
+position_vertical = "center_right"
+
+    [osd.kinds]
+    lock_keys = false
+    media = false
+
+[plugins]
+enabled = [ "noctalia/wallhaven", "noctalia/bongocat", "noctalia/kaomoji" ]
+
+[shell]
+app_icon_color = "primary"
+corner_radius_scale = 1.5000000223517418
+font_family = "Monaspace Krypton Var"
+niri_overview_type_to_launch_enabled = true
+password_style = "random"
+polkit_agent = true
+settings_show_advanced = true
+
+    [shell.launcher]
+    session_search = true
+
+    [shell.panel]
+    clipboard_placement = "attached"
+    polkit_placement = "attached"
+    shadow = false
+    transparency_mode = "soft"
+    wallpaper_position = "center"
+
+[theme]
+builtin = "Nord"
+community_palette = "GitHub Dark"
+custom_palette = "SwayClassic"
+mode = "light"
+source = "wallpaper"
+wallpaper_scheme = "m3-tonal-spot"
+
+    [theme.templates]
+    builtin_ids = [ "alacritty", "btop", "gtk3", "gtk4", "ghostty", "helix", "hyprland", "kitty", "niri", "qt", "starship", "sway" ]
+    community_ids = [ "opencode", "zen-browser", "vscode", "zed", "fuzzel" ]
+
+[wallpaper]
+directory = "/home/kanoman/Pictures/Wallpapers"
+
+    [wallpaper.default]
+    path = "/home/kanoman/Pictures/Wallpapers/WallpaperDog-10940926.jpg"
+
+    [wallpaper.last]
+    path = "/home/kanoman/Pictures/Wallpapers/WallpaperDog-10940926.jpg"
+
+    [wallpaper.monitor.eDP-1]
+    fill_color = "surface"
+
+    [wallpaper.monitors.eDP-1]
+    path = "/home/kanoman/Pictures/Wallpapers/WallpaperDog-10940926.jpg"
+
+[weather]
+unit = "imperial"
+
+[widget.cat]
+audio_spectrum = true
+scale = 1.2
+tappy_mode = true
+type = "noctalia/bongocat:cat"
+use_mpris_filter = true
+
+[widget.cat_2]
+input_devices = [ "/dev/input/event4", "/dev/input/event*" ]
+type = "noctalia/bongocat:cat"
+
+[widget.cat_3]
+audio_spectrum = true
+input_devices = [ "/dev/input/event4", "/dev/input/event6", "/dev/input/event7" ]
+tappy_mode = true
+type = "noctalia/bongocat:cat"
+
+[widget.cat_4]
+type = "noctalia/bongocat:cat"
+
+[widget.cat_5]
+audio_spectrum = true
+tappy_mode = true
+type = "noctalia/bongocat:cat"
+
+[widget.clock]
+scale = 0.94999999999999996
+vertical_format = "{:%I\\n%M %b %-d}"
+
+[widget.control-center]
+custom_image_colorize = true
+
+[widget.cpu]
+display = "text"
+glyph = "cpu"
+highlight_color = "primary"
+
+[widget.media]
+hide_when_no_media = true
+title_scroll = "on_hover"
+
+[widget.network]
+scale = 1.3500000000000001
+show_label = false
+
+[widget.notifications]
+hide_when_no_unread = true
+
+[widget.ram]
+display = "text"
+highlight_color = "primary"
+icon_color = "on_surface"
+stat = "ram_pct"
+
+[widget.session]
+capsule = true
+capsule_radius = "auto"
+
+[widget.sysmon]
+stat = "ram_used"
+
+[widget.workspaces]
+active_pill_size = 1.8
+capsule = true
+display = "none"
+empty_color = "outline"
+inactive_pill_size = 1.4000000000000001
+occupied_color = "outline"
