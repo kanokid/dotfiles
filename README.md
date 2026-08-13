@@ -19,6 +19,4 @@ See [keybinds.md](keybinds.md) for a list of all keybinds.
 ## **Photos**
 Here's some sleek photos of my rice:
 
-![](screenshots/1.png)
-
 ![](screenshots/2.png)
